@@ -1,0 +1,162 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:Faiths and Pantheons|CAMPAIGN:Drow of the Underdark|CAMPAIGN:Magic Item Compendium|CAMPAIGN:Secrets of Sarlona|CAMPAIGN:Complete Scoundrel|CAMPAIGN:Fiendish Codex II|CAMPAIGN:Cityscape (WotC)|CAMPAIGN:Complete Champion|CAMPAIGN:Complete Mage|CAMPAIGN:Complete Psionic|CAMPAIGN:Stormwrack|CAMPAIGN:Dragon Magic|CAMPAIGN:Tome of Battle: The Book of Nine Swords|CAMPAIGN:Player's Handbook II|CAMPAIGN:Tome of Magic|CAMPAIGN:Races of the Dragon|CAMPAIGN:Spell Compendium|CAMPAIGN:Champions of Valor|CAMPAIGN:Lords of Madness|CAMPAIGN:Magic of Incarnum|CAMPAIGN:Weapons of Legacy|CAMPAIGN:City of Splendors: Waterdeep|CAMPAIGN:Champions of Ruin|CAMPAIGN:3.5e ~ Heroes of Battle|CAMPAIGN:Races of Eberron|CAMPAIGN:Sandstorm|CAMPAIGN:Lost Empires of Faerun|CAMPAIGN:Complete Adventurer|CAMPAIGN:Races of Destiny|CAMPAIGN:Complete Arcane|CAMPAIGN:Draconomicon|CAMPAIGN:Libris Mortis|CAMPAIGN:Shining South|CAMPAIGN:Frostburn|CAMPAIGN:Monster Manual III|CAMPAIGN:Races of Stone|CAMPAIGN:Races of the Wild|CAMPAIGN:Planar Handbook|CAMPAIGN:Eberron Campaign Setting|CAMPAIGN:Complete Divine|CAMPAIGN:Expanded Psionics Handbook|CAMPAIGN:Into the Dragon's Lair (35e)|CAMPAIGN:Player's Guide to Faerun|CAMPAIGN:Pool of Radiance - Attack on Myth Drannor (35e)|CAMPAIGN:Races of Faerun (35e)|CAMPAIGN:Unearthed Arcana (Complete)|CAMPAIGN:Unearthed Arcana|CAMPAIGN:Complete Warrior|CAMPAIGN:Dungeon Master's Guide II|CAMPAIGN:Fiend Folio|CAMPAIGN:3.5e ~ Heroes of Horror|CAMPAIGN:Book of Exalted Deeds|CAMPAIGN:Miniatures Handbook|CAMPAIGN:Underdark|CAMPAIGN:Unapproachable East|CAMPAIGN:Arms and Equipment Guide|CAMPAIGN:Savage Species|CAMPAIGN:3.5e ~ Book of Vile Darkness|CAMPAIGN:Monster Manual II|CAMPAIGN:Wizards of the Coast - Monster Manual 2 (35e)|CAMPAIGN:Epic Level Handbook|CAMPAIGN:Deities and Demigods (35e)|CAMPAIGN:Oriental Adventures v.3.5|CAMPAIGN:Magic of Faerun|CAMPAIGN:Monster Compendium - Monsters of Faerun|CAMPAIGN:Fey Feature|CAMPAIGN:Spellbook Archive|CAMPAIGN:The Mind's Eye|CAMPAIGN:Dragons of Faerun - Web Enhancement - City of Wyrmshadows|CAMPAIGN:Dungeonscape|CAMPAIGN:35e ~ Ghostwalk|CAMPAIGN:Swiftblade|CAMPAIGN:Wizards of the Coast - Monster Manual 4 (35e)|CAMPAIGN:Dungeons & Dragons - Core Books
+VERSION:6.08.00 RC8
+ROLLMETHOD:0|EXPRESSION:0
+PURCHASEPOINTS:N
+CHARACTERTYPE:PC
+PREVIEWSHEET:Standard.htm.ftl
+POOLPOINTS:2
+POOLPOINTSAVAIL:-1
+GAMEMODE:35e
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+SKILLFILTER:2
+IGNORECOST:N
+ALLOWDEBT:N
+AUTORESIZEGEAR:Y
+
+# Character Bio
+CHARACTERNAME:Glitter And...
+TABNAME:
+PLAYERNAME:
+HEIGHT:0
+WEIGHT:0
+AGE:0
+GENDER:Male
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:
+HAIRCOLOR:
+HAIRSTYLE:
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:
+
+# Character Attributes
+STAT:STR|SCORE:11
+STAT:DEX|SCORE:10
+STAT:CON|SCORE:11
+STAT:INT|SCORE:10
+STAT:WIS|SCORE:11
+STAT:CHA|SCORE:10
+ALIGN:NONE
+RACE:Dragon (Gold)|ADD:[SPELLCASTER:Sorcerer/Cleric (Arcane)|CHOICE:Sorcerer/Cleric (Arcane)]
+
+# Character Class(es)
+CLASS:Dragon|LEVEL:16|SKILLPOOL:121|SPELLBASE:None|CANCASTPERDAY:
+CLASS:Sorcerer/Cleric (Arcane)|LEVEL:0|SKILLPOOL:0|SPELLBASE:CHA|CANCASTPERDAY:
+CLASSABILITIESLEVEL:Dragon=1|HITPOINTS:12|SKILLSGAINED:24|SKILLSREMAINING:24
+CLASSABILITIESLEVEL:Dragon=2|HITPOINTS:12|SKILLSGAINED:6|SKILLSREMAINING:6
+CLASSABILITIESLEVEL:Dragon=3|HITPOINTS:12|SKILLSGAINED:6|SKILLSREMAINING:6
+CLASSABILITIESLEVEL:Dragon=4|HITPOINTS:12|SKILLSGAINED:6|SKILLSREMAINING:6
+CLASSABILITIESLEVEL:Dragon=5|HITPOINTS:12|SKILLSGAINED:6|SKILLSREMAINING:6
+CLASSABILITIESLEVEL:Dragon=6|HITPOINTS:12|SKILLSGAINED:6|SKILLSREMAINING:6
+CLASSABILITIESLEVEL:Dragon=7|HITPOINTS:12|SKILLSGAINED:6|SKILLSREMAINING:6
+CLASSABILITIESLEVEL:Dragon=8|HITPOINTS:12|SKILLSGAINED:6|SKILLSREMAINING:6
+CLASSABILITIESLEVEL:Dragon=9|HITPOINTS:9|SKILLSGAINED:8|SKILLSREMAINING:8
+CLASSABILITIESLEVEL:Dragon=10|HITPOINTS:4|SKILLSGAINED:8|SKILLSREMAINING:8
+CLASSABILITIESLEVEL:Dragon=11|HITPOINTS:6|SKILLSGAINED:7|SKILLSREMAINING:7
+CLASSABILITIESLEVEL:Dragon=12|HITPOINTS:5|SKILLSGAINED:7|SKILLSREMAINING:7
+CLASSABILITIESLEVEL:Dragon=13|HITPOINTS:2|SKILLSGAINED:7|SKILLSREMAINING:7
+CLASSABILITIESLEVEL:Dragon=14|HITPOINTS:4|SKILLSGAINED:6|SKILLSREMAINING:6
+CLASSABILITIESLEVEL:Dragon=15|HITPOINTS:12|SKILLSGAINED:6|SKILLSREMAINING:6
+CLASSABILITIESLEVEL:Dragon=16|HITPOINTS:3|SKILLSGAINED:6|SKILLSREMAINING:6
+
+# Character Experience
+EXPERIENCE:21000
+EXPERIENCETABLE:Default
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:Base Race Type]
+TEMPLATESAPPLIED:[NAME:First Level|APPLIEDTO:First Level ~ Not Listed]
+TEMPLATESAPPLIED:[NAME:First Level ~ Not Listed|CHOSENTEMPLATE:[NAME:Funds - None]]
+TEMPLATESAPPLIED:[NAME:Funds - None]
+TEMPLATESAPPLIED:[NAME:SIZE_L]
+TEMPLATESAPPLIED:[NAME:Young]
+TEMPLATESAPPLIED:[NAME:LEVEL_ADJUSTMENT_6]
+
+# Character Region
+REGION:None
+
+# Character Skills
+
+# Character Languages
+
+
+# Character Feats
+FEATPOOL:0.0
+
+# Character Abilities
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Improved Multiattack|TYPE:Monstrous|DESC:You are particularly adept at using all your natural weapons at once. &amp;nl; &lbracket;Benefit&rbracket; Your secondary attacks with natural weapons have no penalty on the attack roll. You still add only 1/2 your Strength bonus, if any, to damage dealt. &amp;nl; &lbracket;Normal&rbracket; Without this feat, your secondary natural attacks are made at a -5 penalty (or a -2 penalty if you have the Multiattack feat).
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Multiattack|TYPE:General|DESC:The creature's secondary attacks with natural weapons take only a -2 penalty. Normal&colon; Without this feat, the creature's secondary attacks with natural weapons take a -5 penalty.
+USERPOOL:FEAT|POOLPOINTS:0.0
+ABILITY:First Level Feat|TYPE:NORMAL|CATEGORY:Internal|KEY:+1 Feat to feat pool|APPLIEDTO:|TYPE:FirstLevelFeatOnly|DESC:Use this to bypass a First Level Only Feat, and pick any non-First Level only feats from the regular pool instead.
+USERPOOL:First Level Feat|POOLPOINTS:0.0
+ABILITY:Region|TYPE:NORMAL|CATEGORY:Regional|KEY:Region ~ None|TYPE:Region
+USERPOOL:Region|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Bite|WEAPON:Claws|WEAPON:Tail Slap|WEAPON:Wings]
+
+# Character Equipment
+MONEY:0
+EQUIPNAME:Bite (Natural/Primary)|OUTPUTORDER:0|COST:0|WT:0.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Bite|DATA:KEY=Bite]
+EQUIPNAME:Claws (Natural/Secondary)|OUTPUTORDER:0|COST:0|WT:0.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Claws|DATA:KEY=Claws]
+EQUIPNAME:Tail Slap (Natural/Secondary)|OUTPUTORDER:0|COST:0|WT:0.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Tail Slap|DATA:KEY=Tail Slap]
+EQUIPNAME:Wings (Natural/Secondary)|OUTPUTORDER:0|COST:0|WT:0.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Wings|DATA:KEY=Wings]
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Natural-Primary|ID:0.1.1|VALUE:Bite (Natural/Primary)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Natural-Secondary|ID:0.1.2|VALUE:Claws (Natural/Secondary)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Natural-Secondary|ID:0.1.3|VALUE:Wings (Natural/Secondary)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Natural-Secondary|ID:0.1.4|VALUE:Tail Slap (Natural/Secondary)|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+
+# Character Spells Information
+SPELLLIST:Sorcerer/Cleric (Arcane)|CLASS.Cleric|CLASS.Sorcerer
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+CHARACTERDMNOTES:
+
+# Kits
+KIT:Dragon Default Stat Array
+
+# Character Master/Follower
+MASTER:My PALadin, Joey|TYPE:Dragon Mount|HITDICE:8|FILE:My PALadin, Joey.pcg|ADJUSTMENT:11
+
+# Character Notes Tab
+
+# Age Set Selections
+AGESET:0:0:0:0:0:0:0:0:0:0
+
+# Campaign History
+
+# Suppressed Biography Fields
+SUPPRESSBIOFIELDS:
+

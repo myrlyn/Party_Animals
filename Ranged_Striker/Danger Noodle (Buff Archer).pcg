@@ -1,0 +1,223 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:Faiths and Pantheons|CAMPAIGN:Drow of the Underdark|CAMPAIGN:Magic Item Compendium|CAMPAIGN:Secrets of Sarlona|CAMPAIGN:Complete Scoundrel|CAMPAIGN:Fiendish Codex II|CAMPAIGN:Cityscape (WotC)|CAMPAIGN:Complete Champion|CAMPAIGN:Complete Mage|CAMPAIGN:Complete Psionic|CAMPAIGN:Stormwrack|CAMPAIGN:Dragon Magic|CAMPAIGN:Tome of Battle: The Book of Nine Swords|CAMPAIGN:Player's Handbook II|CAMPAIGN:Tome of Magic|CAMPAIGN:Races of the Dragon|CAMPAIGN:Spell Compendium|CAMPAIGN:Champions of Valor|CAMPAIGN:Lords of Madness|CAMPAIGN:Magic of Incarnum|CAMPAIGN:Weapons of Legacy|CAMPAIGN:City of Splendors: Waterdeep|CAMPAIGN:Champions of Ruin|CAMPAIGN:3.5e ~ Heroes of Battle|CAMPAIGN:Races of Eberron|CAMPAIGN:Sandstorm|CAMPAIGN:Lost Empires of Faerun|CAMPAIGN:Complete Adventurer|CAMPAIGN:Races of Destiny|CAMPAIGN:Complete Arcane|CAMPAIGN:Draconomicon|CAMPAIGN:Libris Mortis|CAMPAIGN:Shining South|CAMPAIGN:Frostburn|CAMPAIGN:Monster Manual III|CAMPAIGN:Races of Stone|CAMPAIGN:Races of the Wild|CAMPAIGN:Planar Handbook|CAMPAIGN:Eberron Campaign Setting|CAMPAIGN:Complete Divine|CAMPAIGN:Expanded Psionics Handbook|CAMPAIGN:Into the Dragon's Lair (35e)|CAMPAIGN:Player's Guide to Faerun|CAMPAIGN:Pool of Radiance - Attack on Myth Drannor (35e)|CAMPAIGN:Races of Faerun (35e)|CAMPAIGN:Unearthed Arcana (Complete)|CAMPAIGN:Unearthed Arcana|CAMPAIGN:Complete Warrior|CAMPAIGN:Dungeon Master's Guide II|CAMPAIGN:Fiend Folio|CAMPAIGN:3.5e ~ Heroes of Horror|CAMPAIGN:Book of Exalted Deeds|CAMPAIGN:Miniatures Handbook|CAMPAIGN:Underdark|CAMPAIGN:Unapproachable East|CAMPAIGN:Arms and Equipment Guide|CAMPAIGN:Savage Species|CAMPAIGN:3.5e ~ Book of Vile Darkness|CAMPAIGN:Monster Manual II|CAMPAIGN:Wizards of the Coast - Monster Manual 2 (35e)|CAMPAIGN:Epic Level Handbook|CAMPAIGN:Deities and Demigods (35e)|CAMPAIGN:Oriental Adventures v.3.5|CAMPAIGN:Magic of Faerun|CAMPAIGN:Monster Compendium - Monsters of Faerun|CAMPAIGN:Fey Feature|CAMPAIGN:Spellbook Archive|CAMPAIGN:The Mind's Eye|CAMPAIGN:Dragons of Faerun - Web Enhancement - City of Wyrmshadows|CAMPAIGN:Dungeonscape|CAMPAIGN:35e ~ Ghostwalk|CAMPAIGN:Swiftblade|CAMPAIGN:Wizards of the Coast - Monster Manual 4 (35e)|CAMPAIGN:Dungeons & Dragons - Core Books
+VERSION:6.08.00 RC8
+ROLLMETHOD:0|EXPRESSION:0
+PURCHASEPOINTS:N
+CHARACTERTYPE:PC
+PREVIEWSHEET:Standard.htm.ftl
+POOLPOINTS:0
+POOLPOINTSAVAIL:-1
+GAMEMODE:35e
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+SKILLFILTER:2
+IGNORECOST:N
+ALLOWDEBT:N
+AUTORESIZEGEAR:Y
+
+# Character Bio
+CHARACTERNAME:Danger Noodle
+TABNAME:
+PLAYERNAME:
+HEIGHT:0
+WEIGHT:0
+AGE:0
+GENDER:Male
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:
+HAIRCOLOR:
+HAIRSTYLE:
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:
+
+# Character Attributes
+STAT:STR|SCORE:18
+STAT:DEX|SCORE:21
+STAT:CON|SCORE:18
+STAT:INT|SCORE:16
+STAT:WIS|SCORE:16
+STAT:CHA|SCORE:16
+ALIGN:NG
+RACE:Giant Constrictor Snake (Anthropomorphic)
+
+# Character Class(es)
+CLASS:Monstrous humanoid|LEVEL:3|SKILLPOOL:0|SPELLBASE:None|CANCASTPERDAY:
+CLASS:Fighter|LEVEL:9|SKILLPOOL:0|SPELLBASE:None|CANCASTPERDAY:
+CLASSABILITIESLEVEL:Monstrous humanoid=1|HITPOINTS:8|SKILLSGAINED:20|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Monstrous humanoid=2|HITPOINTS:8|SKILLSGAINED:5|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Monstrous humanoid=3|HITPOINTS:8|SKILLSGAINED:5|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Fighter=1|HITPOINTS:10|PRESTAT:DEX=1|SKILLSGAINED:5|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Fighter=2|HITPOINTS:10|SKILLSGAINED:5|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Fighter=3|HITPOINTS:10|SKILLSGAINED:5|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Fighter=4|HITPOINTS:10|SKILLSGAINED:5|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Fighter=5|HITPOINTS:10|PRESTAT:DEX=1|SKILLSGAINED:5|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Fighter=6|HITPOINTS:10|SKILLSGAINED:5|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Fighter=7|HITPOINTS:10|SKILLSGAINED:5|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Fighter=8|HITPOINTS:10|SKILLSGAINED:5|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Fighter=9|HITPOINTS:10|PRESTAT:DEX=1|SKILLSGAINED:5|SKILLSREMAINING:0
+
+# Character Experience
+EXPERIENCE:78000
+EXPERIENCETABLE:Default
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:Base Race Type]
+TEMPLATESAPPLIED:[NAME:First Level|APPLIEDTO:First Level ~ Not Listed]
+TEMPLATESAPPLIED:[NAME:First Level ~ Not Listed|CHOSENTEMPLATE:[NAME:Funds - None]]
+TEMPLATESAPPLIED:[NAME:Funds - None]
+
+# Character Region
+REGION:None
+
+# Character Skills
+SKILL:Appraise|OUTPUTORDER:1|
+SKILL:Balance|OUTPUTORDER:2|CLASSBOUGHT:[CLASS:Monstrous humanoid|RANKS:6.0|COST:1|CLASSSKILL:Y]
+SKILL:Bluff|OUTPUTORDER:3|
+SKILL:Climb|OUTPUTORDER:4|CLASSBOUGHT:[CLASS:Monstrous humanoid|RANKS:6.0|COST:1|CLASSSKILL:Y]CLASSBOUGHT:[CLASS:Fighter|RANKS:9.0|COST:1|CLASSSKILL:Y]
+SKILL:Concentration|OUTPUTORDER:5|
+SKILL:Control Shape|OUTPUTORDER:6|
+SKILL:Craft (Untrained)|OUTPUTORDER:7|
+SKILL:Diplomacy|OUTPUTORDER:8|
+SKILL:Diplomacy (Red Dragons)|OUTPUTORDER:9|
+SKILL:Disguise|OUTPUTORDER:10|
+SKILL:Escape Artist|OUTPUTORDER:11|
+SKILL:Forgery|OUTPUTORDER:12|
+SKILL:Gather Information|OUTPUTORDER:13|
+SKILL:Handle Animal|OUTPUTORDER:14|CLASSBOUGHT:[CLASS:Fighter|RANKS:12.0|COST:1|CLASSSKILL:Y]
+SKILL:Heal|OUTPUTORDER:15|
+SKILL:Hide|OUTPUTORDER:16|CLASSBOUGHT:[CLASS:Monstrous humanoid|RANKS:6.0|COST:1|CLASSSKILL:Y]
+SKILL:Hide (Forested Areas)|OUTPUTORDER:17|
+SKILL:Iaijutsu Focus|OUTPUTORDER:18|
+SKILL:Intimidate|OUTPUTORDER:19|CLASSBOUGHT:[CLASS:Fighter|RANKS:15.0|COST:1|CLASSSKILL:Y]
+SKILL:Intimidate (Demoralize opponent)|OUTPUTORDER:20|
+SKILL:Jump|OUTPUTORDER:21|
+SKILL:Knowledge (Shadowlands)|OUTPUTORDER:22|
+SKILL:Knowledge (Spirits)|OUTPUTORDER:23|
+SKILL:Knowledge (Untrained)|OUTPUTORDER:24|
+SKILL:Knowledge (war)|OUTPUTORDER:25|
+SKILL:Listen|OUTPUTORDER:26|
+SKILL:Literacy|OUTPUTORDER:27|
+SKILL:Move Silently|OUTPUTORDER:28|
+SKILL:Move Silently (Forested Areas)|OUTPUTORDER:29|
+SKILL:Ride|OUTPUTORDER:30|
+SKILL:Search|OUTPUTORDER:31|
+SKILL:Sense Motive|OUTPUTORDER:32|
+SKILL:Skill Trick|OUTPUTORDER:33|CLASSBOUGHT:[CLASS:Monstrous humanoid|RANKS:6.0|COST:1|CLASSSKILL:Y]
+SKILL:Spot|OUTPUTORDER:34|
+SKILL:Survival|OUTPUTORDER:35|
+SKILL:Swim|OUTPUTORDER:36|CLASSBOUGHT:[CLASS:Monstrous humanoid|RANKS:6.0|COST:1|CLASSSKILL:Y]CLASSBOUGHT:[CLASS:Fighter|RANKS:9.0|COST:1|CLASSSKILL:Y]
+SKILL:Use Rope|OUTPUTORDER:37|
+
+# Character Languages
+LANGUAGE:Common|LANGUAGE:Sylvan|LANGUAGE:Undercommon
+
+# Character Feats
+FEATPOOL:0.0
+
+# Character Abilities
+ABILITY:*LANGBONUS|TYPE:VIRTUAL|CATEGORY:*LANGBONUS|KEY:*LANGBONUS|APPLIEDTO:Sylvan,Undercommon,Common|TYPE:
+ABILITY:*LANGBONUS|TYPE:VIRTUAL|CATEGORY:*LANGBONUS|KEY:*LANGBONUS|APPLIEDTO:Sylvan,Undercommon,Common|TYPE:
+ABILITY:*LANGBONUS|TYPE:VIRTUAL|CATEGORY:*LANGBONUS|KEY:*LANGBONUS|APPLIEDTO:Sylvan,Undercommon,Common|TYPE:
+USERPOOL:*LANGBONUS|POOLPOINTS:0.0
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Coordinated Shot|TYPE:General.Fighter|DESC:You are extraordinarily talented at making ranged attacks past your allies.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Exotic Weapon Proficiency|APPLIEDTO:Greatbow|TYPE:General.Fighter.DivineChampion.ShadowThief.ViolentKnowledge.JusticiarOfTaiiaBonusFeat|DESC:You understand how to use the specified type of exotic weapon in combat.&pipe;PREVAREQ&colon;DisplayFullFeat,1|DESC:Choose a type of exotic weapon, such as dire flail or shuriken (see Table 7-5&colon; Weapons, page 116, for a list of exotic weapons). You understand how to use that type of exotic weapon in combat.&pipe;PREVAREQ&colon;DisplayFullFeat,1
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Plunging Shot|TYPE:General|DESC:You can use the force of gravity to make your ranged attacks deal extra damage if your target is below you.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Ranged Pin|TYPE:General.Fighter.ChampionOfTheWildArchery
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Ranged Sunder|TYPE:General.Fighter.ChampionOfTheWildArchery
+USERPOOL:FEAT|POOLPOINTS:0.0
+ABILITY:Fighter Feat|TYPE:NORMAL|CATEGORY:FEAT|KEY:Improved Rapid Shot|TYPE:General.Fighter.ChampionOfTheWildArchery
+ABILITY:Fighter Feat|TYPE:NORMAL|CATEGORY:FEAT|KEY:Manyshot|TYPE:General.Fighter.AttackOption.ChampionOfTheWildArchery|DESC:You can fire multiple arrows simultaneously against a nearby target.
+ABILITY:Fighter Feat|TYPE:NORMAL|CATEGORY:FEAT|KEY:Point Blank Shot|TYPE:General.Fighter.AttackOption.ChampionOfTheWildArchery.ViolentKnowledge|DESC:You are skilled at making well-placed shots with ranged weapons at close range.
+ABILITY:Fighter Feat|TYPE:NORMAL|CATEGORY:FEAT|KEY:Precise Shot|TYPE:General.Fighter.AttackOption.ChampionOfTheWildArchery.ViolentKnowledge|DESC:You are skilled at timing and aiming ranged attacks.
+ABILITY:Fighter Feat|TYPE:NORMAL|CATEGORY:FEAT|KEY:Rapid Shot|TYPE:General.Fighter.AttackOption.ViolentKnowledge|DESC:You can use ranged weapons with exceptional speed.
+USERPOOL:Fighter Feat|POOLPOINTS:0.0
+ABILITY:First Level Feat|TYPE:NORMAL|CATEGORY:Internal|KEY:+1 Feat to feat pool|APPLIEDTO:|TYPE:FirstLevelFeatOnly|DESC:Use this to bypass a First Level Only Feat, and pick any non-First Level only feats from the regular pool instead.
+USERPOOL:First Level Feat|POOLPOINTS:0.0
+ABILITY:Region|TYPE:NORMAL|CATEGORY:Regional|KEY:Region ~ None|TYPE:Region
+USERPOOL:Region|POOLPOINTS:0.0
+ABILITY:Skill Tricks|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Skill Trick ~ Corner Perch|TYPE:ST.SpecialQuality.SkillTrick.Movement|DESC:If you succeed on a Climb check to ascend or descend either a "chimney," where you can brace against opposite walls, or a corner where you can brace against perpendicular walls (PH 69), you can suspend yourself momentarily. Until the end of your next turn, you can use your hands freely for any other purpose (including attacking) without risk of falling. At the end of your next turn, you fall from the wall unless you succeed on a Climb check against the normal DC +5 (made as a move action) or you have succeeded on another Climb check to move up or down the wall as normal.
+ABILITY:Skill Tricks|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Skill Trick ~ Never Outnumbered|TYPE:ST.SpecialQuality.SkillTrick.Interaction|DESC:When you use Intimidate to demoralize an opponent (PH 76), you can affect all enemies within 10 feet that can see you, rather than only a single enemy you threaten. Each enemy rolls a separate modified level check to oppose your Intimidate check, but the skill checkotherwise works as normal.
+ABILITY:Skill Tricks|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Skill Trick ~ Speedy Ascent|TYPE:ST.SpecialQuality.SkillTrick.Movement|DESC:If you succeed on a Climb check to move at least 10 feet, you can move an extra 10 feet as post of that action.
+USERPOOL:Skill Tricks|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Aspergillum (Heavy)|WEAPON:Axe (Throwing)|WEAPON:Bash|WEAPON:Battle Gauntlet|WEAPON:Battleaxe|WEAPON:Bite|WEAPON:Blowgun|WEAPON:Boulder|WEAPON:Club|WEAPON:Crossbow (Heavy)]
+WEAPONPROF:[WEAPON:Crossbow (Light)|WEAPON:Cutlass|WEAPON:Dagger|WEAPON:Dagger (Punching)|WEAPON:Dart|WEAPON:Dart Thruster|WEAPON:Darts (Barbed)|WEAPON:Falchion|WEAPON:Flail|WEAPON:Flail (Heavy)]
+WEAPONPROF:[WEAPON:Gauntlet|WEAPON:Gauntlet (Spiked)|WEAPON:Glaive|WEAPON:Goblin Stick|WEAPON:Grapple|WEAPON:Greataxe|WEAPON:Greatbow|WEAPON:Greatclub|WEAPON:Greatsword|WEAPON:Guisarme]
+WEAPONPROF:[WEAPON:Halberd|WEAPON:Halfspear|WEAPON:Hammer (Light)|WEAPON:Handaxe|WEAPON:Ice Axe|WEAPON:Javelin|WEAPON:Katana|WEAPON:Kukri|WEAPON:Lance|WEAPON:Lance (Flight)]
+WEAPONPROF:[WEAPON:Lance (Heavy)|WEAPON:Longbow|WEAPON:Longspear|WEAPON:Longsword|WEAPON:Lucerne Hammer|WEAPON:Mace (Heavy)|WEAPON:Mace (Light)|WEAPON:Maul|WEAPON:Morningstar|WEAPON:Pick (Dire)]
+WEAPONPROF:[WEAPON:Pick (Heavy)|WEAPON:Pick (Light)|WEAPON:Quarterstaff|WEAPON:Ranged Spell|WEAPON:Ranseur|WEAPON:Rapier|WEAPON:Saber|WEAPON:Sap|WEAPON:Scimitar|WEAPON:Scythe]
+WEAPONPROF:[WEAPON:Shieldbash|WEAPON:Shortbow|WEAPON:Shortspear|WEAPON:Sickle|WEAPON:Sling|WEAPON:Spear|WEAPON:Spells (Ray)|WEAPON:Spells (Touch)|WEAPON:Spiked Armor|WEAPON:Strike (Unarmed)]
+WEAPONPROF:[WEAPON:Sword (Bastard)|WEAPON:Sword (Cutlass)|WEAPON:Sword (Saber)|WEAPON:Sword (Short)|WEAPON:Trident|WEAPON:Truncheon|WEAPON:Unarmed Strike|WEAPON:Wakizashi|WEAPON:Warhammer|WEAPON:Warmace]
+
+# Character Equipment
+MONEY:0
+EQUIPNAME:Bite (Natural/Primary)|OUTPUTORDER:5|COST:0|WT:0.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Bite|DATA:KEY=Bite]
+EQUIPNAME:Bring Me That Horizon(Bracelets)|OUTPUTORDER:3|COST:12000.0|WT:0.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Bracelets|DATA:NAME=Bring Me That Horizon(Bracelets)$EQMOD=SPL_ACT&pipe;SPELLNAME&lbracket;Near Horizon&rbracket; CASTER&lbracket;Assassin&rbracket; SPELLTYPE&lbracket;Arcane&rbracket; SPELLLEVEL&lbracket;2&rbracket; CASTERLEVEL&lbracket;3&rbracket; $SPROP=Take no range penalties on ranged attacks.  Your max range is still 10x your weapon's range increment., (Bracelets (Near Horizon/Assassin/3rd)), (Bracelets (Near Horizon/Assassin/3rd))]
+EQUIPNAME:Coin (Gold)|OUTPUTORDER:8|COST:1|WT:0.02|QUANTITY:88.0|NOTE:
+EQUIPNAME:Enormous Stick With String|OUTPUTORDER:2|COST:34100.0|WT:12.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Greatbow (Composite)|DATA:NAME=Enormous Stick With String$SIZE=L$EQMOD=WOOD.BOWSTR&pipe;+7.PLUS1W.Splitting.ADDTYPE&pipe;Container$SPROP=Greatbow.  Cannot be used effectively while mounted.  +1 Enhancement bonus.  Maximum Strength Bonus +7.  Any arrow fired from this bow is duplicated.  Make Attack Rolls for both arrows.  All magical features of the arrows are duplicated.]
+EQUIPNAME:Gloves of Dexterity +4|OUTPUTORDER:6|COST:16000|WT:0.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Hat of Disguise|OUTPUTORDER:1|COST:1800|WT:0.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Raptor Arrow (Large)|OUTPUTORDER:7|COST:12012.0|WT:0.3|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Raptor Arrow|DATA:NAME=Raptor Arrow (Large)$KEY=AUTOSIZELRaptor Arrow$SIZE=L$EQMOD=STEEL.WOOD]
+EQUIPNAME:Ring Of Bein' a Heckin' Huge Danger Noodle|OUTPUTORDER:4|COST:12000.0|WT:0.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Art (Ring (Gold and Ruby))|DATA:NAME=Ring Of Bein' a Heckin' Huge Danger Noodle$EQMOD=IRON.ADDTYPE&pipe;Ring.SPL_CON_DAYS&pipe;SPELLNAME&lbracket;Adrenaline Boost&rbracket; CASTER&lbracket;Psychic Warrior&rbracket; SPELLTYPE&lbracket;Psionic&rbracket; SPELLLEVEL&lbracket;1&rbracket; CASTERLEVEL&lbracket;12&rbracket; $SPROP=Allows you to assume a size category of Large or Huge at will as a standard action.  (Size change as Expansion)]
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Both Hands|ID:0.1.02|VALUE:Enormous Stick With String|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Arms|ID:0.1.03|VALUE:Bring Me That Horizon(Bracelets)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Hands|ID:0.1.04|VALUE:Gloves of Dexterity +4|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.05|VALUE:Raptor Arrow (Large)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Fingers|ID:0.1.06|VALUE:Ring Of Bein' a Heckin' Huge Danger Noodle|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Head|ID:0.1.07|VALUE:Hat of Disguise|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.08|VALUE:Coin (Gold)|QUANTITY:88.0|USETEMPMODS:Y
+EQUIPSET:Natural-Primary|ID:0.1.1|VALUE:Bite (Natural/Primary)|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+DEITY:Ehlonna|DEITYDOMAINS:[DOMAIN:Animal|DOMAIN:Good|DOMAIN:Plant|DOMAIN:Sun]|ALIGNALLOW:|DESC:Not FR Deity|DEITYFAVWEAP:[WEAPON:Longbow]|DEITYALIGN:NG
+
+# Character Spells Information
+SPELLBOOK:Magic Item|TYPE:4
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+CHARACTERDMNOTES:
+
+# Kits
+
+# Character Master/Follower
+
+# Character Notes Tab
+
+# Age Set Selections
+AGESET:0:0:0:0:0:0:0:0:0:0
+
+# Campaign History
+
+# Suppressed Biography Fields
+SUPPRESSBIOFIELDS:
+

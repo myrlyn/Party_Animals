@@ -1,0 +1,240 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:Faiths and Pantheons|CAMPAIGN:Drow of the Underdark|CAMPAIGN:Magic Item Compendium|CAMPAIGN:Secrets of Sarlona|CAMPAIGN:Complete Scoundrel|CAMPAIGN:Fiendish Codex II|CAMPAIGN:Cityscape (WotC)|CAMPAIGN:Complete Champion|CAMPAIGN:Complete Mage|CAMPAIGN:Complete Psionic|CAMPAIGN:Stormwrack|CAMPAIGN:Dragon Magic|CAMPAIGN:Tome of Battle: The Book of Nine Swords|CAMPAIGN:Player's Handbook II|CAMPAIGN:Tome of Magic|CAMPAIGN:Races of the Dragon|CAMPAIGN:Spell Compendium|CAMPAIGN:Champions of Valor|CAMPAIGN:Lords of Madness|CAMPAIGN:Magic of Incarnum|CAMPAIGN:Weapons of Legacy|CAMPAIGN:City of Splendors: Waterdeep|CAMPAIGN:Champions of Ruin|CAMPAIGN:3.5e ~ Heroes of Battle|CAMPAIGN:Races of Eberron|CAMPAIGN:Sandstorm|CAMPAIGN:Lost Empires of Faerun|CAMPAIGN:Complete Adventurer|CAMPAIGN:Races of Destiny|CAMPAIGN:Complete Arcane|CAMPAIGN:Draconomicon|CAMPAIGN:Libris Mortis|CAMPAIGN:Shining South|CAMPAIGN:Frostburn|CAMPAIGN:Monster Manual III|CAMPAIGN:Races of Stone|CAMPAIGN:Races of the Wild|CAMPAIGN:Planar Handbook|CAMPAIGN:Eberron Campaign Setting|CAMPAIGN:Complete Divine|CAMPAIGN:Expanded Psionics Handbook|CAMPAIGN:Into the Dragon's Lair (35e)|CAMPAIGN:Player's Guide to Faerun|CAMPAIGN:Pool of Radiance - Attack on Myth Drannor (35e)|CAMPAIGN:Races of Faerun (35e)|CAMPAIGN:Unearthed Arcana (Complete)|CAMPAIGN:Unearthed Arcana|CAMPAIGN:Complete Warrior|CAMPAIGN:Dungeon Master's Guide II|CAMPAIGN:Fiend Folio|CAMPAIGN:3.5e ~ Heroes of Horror|CAMPAIGN:Book of Exalted Deeds|CAMPAIGN:Miniatures Handbook|CAMPAIGN:Underdark|CAMPAIGN:Unapproachable East|CAMPAIGN:Arms and Equipment Guide|CAMPAIGN:Savage Species|CAMPAIGN:3.5e ~ Book of Vile Darkness|CAMPAIGN:Monster Manual II|CAMPAIGN:Wizards of the Coast - Monster Manual 2 (35e)|CAMPAIGN:Epic Level Handbook|CAMPAIGN:Deities and Demigods (35e)|CAMPAIGN:Oriental Adventures v.3.5|CAMPAIGN:Magic of Faerun|CAMPAIGN:Monster Compendium - Monsters of Faerun|CAMPAIGN:Fey Feature|CAMPAIGN:Spellbook Archive|CAMPAIGN:The Mind's Eye|CAMPAIGN:Dragons of Faerun - Web Enhancement - City of Wyrmshadows|CAMPAIGN:Dungeonscape|CAMPAIGN:35e ~ Ghostwalk|CAMPAIGN:Swiftblade|CAMPAIGN:Wizards of the Coast - Monster Manual 4 (35e)|CAMPAIGN:Dungeons & Dragons - Core Books
+VERSION:6.08.00 RC8
+ROLLMETHOD:0|EXPRESSION:0
+PURCHASEPOINTS:N
+CHARACTERTYPE:PC
+PREVIEWSHEET:Standard.htm.ftl
+POOLPOINTS:0
+POOLPOINTSAVAIL:-1
+GAMEMODE:35e
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+SKILLFILTER:2
+IGNORECOST:N
+ALLOWDEBT:N
+AUTORESIZEGEAR:Y
+
+# Character Bio
+CHARACTERNAME:Grim Reaper
+TABNAME:
+PLAYERNAME:
+HEIGHT:66
+WEIGHT:145
+AGE:30
+GENDER:Male
+HANDED:Right
+SKINCOLOR:Pale, coverered in shadow tattooos
+EYECOLOR:purple
+HAIRCOLOR:black and purple
+HAIRSTYLE:ponytail
+LOCATION:Vala
+CITY:
+BIRTHDAY:
+BIRTHPLACE:Plane Of Shadow
+PERSONALITYTRAIT1:Direct
+PERSONALITYTRAIT2:Intense
+SPEECHPATTERN:Quiet, Direct
+PHOBIAS:Transmuters
+INTERESTS:Games of skill
+CATCHPHRASE:I don't have a 'catch-phrase'.
+PORTRAIT:C&colon;\Users\myrlyn\Downloads\Sickle-Dancer.jpg
+PORTRAITTHUMBNAILRECT:53,42,523,523
+
+# Character Attributes
+STAT:STR|SCORE:16
+STAT:DEX|SCORE:21
+STAT:CON|SCORE:16
+STAT:INT|SCORE:18
+STAT:WIS|SCORE:16
+STAT:CHA|SCORE:18
+ALIGN:CG
+RACE:Monkey (Anthropomorphic)
+
+# Character Class(es)
+CLASS:Rogue|LEVEL:12|SKILLPOOL:180|SPELLBASE:None|CANCASTPERDAY:
+CLASSABILITIESLEVEL:Rogue=1|HITPOINTS:6|SKILLSGAINED:52|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Rogue=2|HITPOINTS:6|SKILLSGAINED:13|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Rogue=3|HITPOINTS:6|SKILLSGAINED:13|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Rogue=4|HITPOINTS:6|PRESTAT:DEX=1|SKILLSGAINED:13|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Rogue=5|HITPOINTS:6|SKILLSGAINED:13|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Rogue=6|HITPOINTS:6|SKILLSGAINED:13|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Rogue=7|HITPOINTS:6|SKILLSGAINED:13|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Rogue=8|HITPOINTS:6|PRESTAT:DEX=1|SKILLSGAINED:13|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Rogue=9|HITPOINTS:6|SKILLSGAINED:13|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Rogue=10|HITPOINTS:6|SKILLSGAINED:13|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Rogue=11|HITPOINTS:6|SKILLSGAINED:13|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Rogue=12|HITPOINTS:6|PRESTAT:DEX=1|SKILLSGAINED:13|SKILLSREMAINING:0
+
+# Character Experience
+EXPERIENCE:91000
+EXPERIENCETABLE:Default
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:Base Race Type|CHOSENTEMPLATE:[NAME:Base Race Type ~ Humanoid]]
+TEMPLATESAPPLIED:[NAME:Language ~ Bonus (Human)]
+TEMPLATESAPPLIED:[NAME:Base Race Type ~ Humanoid]
+TEMPLATESAPPLIED:[NAME:Shadow Creature]
+TEMPLATESAPPLIED:[NAME:First Level|APPLIEDTO:First Level ~ Rogue]
+TEMPLATESAPPLIED:[NAME:First Level ~ Rogue|CHOSENTEMPLATE:[NAME:Funds - None]]
+TEMPLATESAPPLIED:[NAME:Funds - None]
+TEMPLATESAPPLIED:[NAME:RaceSubtype ~ Augmented Humanoid]
+TEMPLATESAPPLIED:[NAME:Combat Expertise trade off]
+
+# Character Region
+REGION:None
+
+# Character Skills
+SKILL:Appraise|OUTPUTORDER:1|
+SKILL:Balance|OUTPUTORDER:2|CLASSBOUGHT:[CLASS:Rogue|RANKS:15.0|COST:1|CLASSSKILL:Y]
+SKILL:Bluff|OUTPUTORDER:3|CLASSBOUGHT:[CLASS:Rogue|RANKS:15.0|COST:1|CLASSSKILL:Y]
+SKILL:Climb|OUTPUTORDER:4|CLASSBOUGHT:[CLASS:Rogue|RANKS:15.0|COST:1|CLASSSKILL:Y]
+SKILL:Concentration|OUTPUTORDER:5|
+SKILL:Control Shape|OUTPUTORDER:6|
+SKILL:Craft (Untrained)|OUTPUTORDER:7|
+SKILL:Diplomacy|OUTPUTORDER:8|
+SKILL:Diplomacy (Red Dragons)|OUTPUTORDER:9|
+SKILL:Disable Device|OUTPUTORDER:10|CLASSBOUGHT:[CLASS:Rogue|RANKS:15.0|COST:1|CLASSSKILL:Y]
+SKILL:Disguise|OUTPUTORDER:11|CLASSBOUGHT:[CLASS:Rogue|RANKS:15.0|COST:1|CLASSSKILL:Y]
+SKILL:Escape Artist|OUTPUTORDER:12|
+SKILL:Forgery|OUTPUTORDER:13|
+SKILL:Gather Information|OUTPUTORDER:14|
+SKILL:Heal|OUTPUTORDER:15|
+SKILL:Hide|OUTPUTORDER:16|CLASSBOUGHT:[CLASS:Rogue|RANKS:15.0|COST:1|CLASSSKILL:Y]
+SKILL:Hide (Forested Areas)|OUTPUTORDER:17|
+SKILL:Iaijutsu Focus|OUTPUTORDER:18|
+SKILL:Intimidate|OUTPUTORDER:19|
+SKILL:Intimidate (Demoralize opponent)|OUTPUTORDER:20|
+SKILL:Jump|OUTPUTORDER:21|
+SKILL:Knowledge (Shadowlands)|OUTPUTORDER:22|
+SKILL:Knowledge (Spirits)|OUTPUTORDER:23|
+SKILL:Knowledge (Untrained)|OUTPUTORDER:24|
+SKILL:Knowledge (war)|OUTPUTORDER:25|
+SKILL:Listen|OUTPUTORDER:26|
+SKILL:Literacy|OUTPUTORDER:27|
+SKILL:Move Silently|OUTPUTORDER:28|CLASSBOUGHT:[CLASS:Rogue|RANKS:15.0|COST:1|CLASSSKILL:Y]
+SKILL:Move Silently (Forested Areas)|OUTPUTORDER:29|
+SKILL:Open Lock|OUTPUTORDER:30|CLASSBOUGHT:[CLASS:Rogue|RANKS:15.0|COST:1|CLASSSKILL:Y]
+SKILL:Ride|OUTPUTORDER:31|
+SKILL:Search|OUTPUTORDER:32|CLASSBOUGHT:[CLASS:Rogue|RANKS:15.0|COST:1|CLASSSKILL:Y]
+SKILL:Sense Motive|OUTPUTORDER:33|CLASSBOUGHT:[CLASS:Rogue|RANKS:11.0|COST:1|CLASSSKILL:Y]
+SKILL:Skill Trick|OUTPUTORDER:34|CLASSBOUGHT:[CLASS:Rogue|RANKS:4.0|COST:1|CLASSSKILL:Y]
+SKILL:Sleight of Hand|OUTPUTORDER:35|CLASSBOUGHT:[CLASS:Rogue|RANKS:15.0|COST:1|CLASSSKILL:Y]
+SKILL:Spot|OUTPUTORDER:36|
+SKILL:Survival|OUTPUTORDER:37|
+SKILL:Swim|OUTPUTORDER:38|
+SKILL:Tumble|OUTPUTORDER:39|CLASSBOUGHT:[CLASS:Rogue|RANKS:15.0|COST:1|CLASSSKILL:Y]
+SKILL:Use Magic Device|OUTPUTORDER:40|CLASSBOUGHT:[CLASS:Rogue|RANKS:15.0|COST:1|CLASSSKILL:Y]
+SKILL:Use Rope|OUTPUTORDER:41|
+
+# Character Languages
+LANGUAGE:Draconic|LANGUAGE:Elven|LANGUAGE:Undercommon|LANGUAGE:Yuan-Ti
+
+# Character Feats
+FEATPOOL:0.0
+
+# Character Abilities
+ABILITY:*LANGBONUS|TYPE:VIRTUAL|CATEGORY:*LANGBONUS|KEY:*LANGBONUS|APPLIEDTO:Yuan-Ti,Undercommon,Elven,Draconic|TYPE:
+ABILITY:*LANGBONUS|TYPE:VIRTUAL|CATEGORY:*LANGBONUS|KEY:*LANGBONUS|APPLIEDTO:Yuan-Ti,Undercommon,Elven,Draconic|TYPE:
+ABILITY:*LANGBONUS|TYPE:VIRTUAL|CATEGORY:*LANGBONUS|KEY:*LANGBONUS|APPLIEDTO:Yuan-Ti,Undercommon,Elven,Draconic|TYPE:
+ABILITY:*LANGBONUS|TYPE:VIRTUAL|CATEGORY:*LANGBONUS|KEY:*LANGBONUS|APPLIEDTO:Yuan-Ti,Undercommon,Elven,Draconic|TYPE:
+USERPOOL:*LANGBONUS|POOLPOINTS:0.0
+ABILITY:Alternate Class Feature|TYPE:NORMAL|CATEGORY:ACF|KEY:Rogue ACF ~ Penetrating Strike|TYPE:RogueTrapSense.ACF|DESC:You have exchanged the Trap Sense class feature for the ability to gain some benefit from sneak attacking creatures normally immune.
+USERPOOL:Alternate Class Feature|POOLPOINTS:0.0
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Combat Expertise|TYPE:General.Fighter.AttackOption.ModifyAC.ChampionOfTheWild.DivineChampion.ShadowThief|DESC:You are trained at using your combat skill for defense as well asoffense.|DESC:You cannot use this feat while raging&pipe;PREVARGT&colon;0,RageTimes
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Combat Reflexes|TYPE:General.Fighter.AttackOption.DivineChampion|DESC:You can respond quickly and repeatedly to opponents who let their defenses down.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Craven|TYPE:General|DESC:Like most sly rogues, you are a dangerous coward. However, your sneak attacks deal more damage than normal.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Darkstalker|TYPE:General|DESC:When you hide, creatures with blindsense, blindsight, scent, or tremorsense mustmake a Listen check or a Spot check (whichever DC is higher) to notice you, just as sighted creatures would makeSpot checks to detect you. You cannot hide in plain sight unless you have that ability as a class feature. In addition, you can fl ank creatures that have the all-around vision special quality.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Improved Trip|TYPE:General.Fighter.AttackOption.ChampionOfTheWild.ViolentKnowledge|DESC:You are trained not only in tripping opponents safely but also in following through with an attack.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Weapon Finesse|TYPE:General.Fighter.ChampionOfTheWildTwoWeaponFighting.ShadowThief.ViolentKnowledge|DESC:You are especially skilled at using weapons that can benefit as much from Dexterity as from Strength.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Weapon Focus|APPLIEDTO:Sickle|TYPE:General.Fighter.Dragonrider.DivineChampion.ShadowThief.ViolentKnowledge|DESC:You are especially good at using this specified weapon.&pipe;!PRERULE&colon;1,DisplayFullFeat|DESC:Choose one type of weapon, such as greataxe. You can also choose unarmed strike or grapple (or ray, if you are a spellcaster) as your weapon for purposes of this feat. You are especially good at using this weapon. (If you have chosen ray, you are especially good with rays, such as the one produced by the ray of frost spell.)&pipe;PRERULE&colon;1,DisplayFullFeat
+USERPOOL:FEAT|POOLPOINTS:0.0
+ABILITY:First Level Feat|TYPE:NORMAL|CATEGORY:Internal|KEY:+1 Feat to feat pool|APPLIEDTO:|TYPE:FirstLevelFeatOnly|DESC:Use this to bypass a First Level Only Feat, and pick any non-First Level only feats from the regular pool instead.
+USERPOOL:First Level Feat|POOLPOINTS:0.0
+ABILITY:Flaws|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Flaw ~ Shaky|TYPE:Flaws.SpecialQuality|DESC:You are relatively poor at ranged combat.
+ABILITY:Flaws|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Flaw ~ Weak Will|TYPE:Flaws.SpecialQuality|DESC:You are highly suggestible and easily duped.
+USERPOOL:Flaws|POOLPOINTS:0.0
+ABILITY:Human Subrace|TYPE:NORMAL|CATEGORY:Internal|KEY:Subrace ~ None|TYPE:HumanSubrace.DwarfSubrace.ElfSubrace.HalfElfSubrace.HalfOrcSubrace.GnomeSubrace.HalflingSubrace|DESC:Race is not granted anything from a subrace.
+USERPOOL:Human Subrace|POOLPOINTS:0.0
+ABILITY:Region|TYPE:NORMAL|CATEGORY:Regional|KEY:Region ~ None|TYPE:Region
+USERPOOL:Region|POOLPOINTS:0.0
+ABILITY:Rogue Special Ability|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Rogue Special Ability ~ Opportunist|TYPE:Extraordinary.Class Feature.Rogue Class Feature.SpecialQuality.RogueSpecialAbilitySelection|DESC:Once per round, the rogue can make an attack of opportunity against an opponent who has just been struck for damage in melee by another character. This attack counts as the rogue's attack of opportunity for that round. Even a rogue with the Combat Reflexes feat can't use the opportunist ability more than once per round.
+USERPOOL:Rogue Special Ability|POOLPOINTS:0.0
+ABILITY:Shadow Creature Powers|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Shadow DR|TYPE:Shadow Power
+ABILITY:Shadow Creature Powers|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Shadow Saves|TYPE:SpecialQuality.Shadow Power
+ABILITY:Shadow Creature Powers|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Shadow ~ Fast Healing|TYPE:SpecialQuality.Extraordinary.Shadow Power|DESC:You regain 2 HP per round.
+USERPOOL:Shadow Creature Powers|POOLPOINTS:0.0
+ABILITY:Skill Tricks|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Skill Trick ~ Acrobatic Backstab|TYPE:ST.SpecialQuality.SkillTrick.Movement|DESC:If you succeed on a Tumble check t move tthrough an enemy's space, you can treat that enemy as flat-footed against the next melee attack you make against it on your current turn.
+ABILITY:Skill Tricks|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Skill Trick ~ Back on Your Feet|TYPE:ST.SpecialQuality.SkillTrick.Movement|DESC:If you fall prone for any reason, you can stand up as an immediate action without provoking attacks of opportunity.
+USERPOOL:Skill Tricks|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Aspergillum (Heavy)|WEAPON:Battle Gauntlet|WEAPON:Bite|WEAPON:Blowgun|WEAPON:Boulder|WEAPON:Club|WEAPON:Crossbow (Hand)|WEAPON:Crossbow (Heavy)|WEAPON:Crossbow (Light)|WEAPON:Dagger]
+WEAPONPROF:[WEAPON:Dagger (Punching)|WEAPON:Dart|WEAPON:Darts (Barbed)|WEAPON:Gauntlet|WEAPON:Gauntlet (Spiked)|WEAPON:Grapple|WEAPON:Halfspear|WEAPON:Javelin|WEAPON:Longspear|WEAPON:Mace (Heavy)]
+WEAPONPROF:[WEAPON:Mace (Light)|WEAPON:Morningstar|WEAPON:NoProfReq|WEAPON:Quarterstaff|WEAPON:Ranged Spell|WEAPON:Rapier|WEAPON:Sap|WEAPON:Shortbow|WEAPON:Shortspear|WEAPON:Sickle]
+WEAPONPROF:[WEAPON:Sling|WEAPON:Spear|WEAPON:Spells (Ray)|WEAPON:Spells (Touch)|WEAPON:Strike (Unarmed)|WEAPON:Sword (Short)|WEAPON:Unarmed Strike]
+
+# Character Equipment
+MONEY:0.00
+EQUIPNAME:Bite (Natural/Primary)|OUTPUTORDER:2|COST:0|WT:0.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Bite|DATA:KEY=Bite]
+EQUIPNAME:Chain Shirt +5 (Small)|OUTPUTORDER:4|COST:25250.0|WT:12.5|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Chain Shirt|DATA:NAME=Chain Shirt +5 (Small)$KEY=AUTOSIZESChain Shirt +5$SIZE=S$EQMOD=STEEL.PLUS5A]
+EQUIPNAME:Coin (Gold)|OUTPUTORDER:10|COST:1|WT:0.02|QUANTITY:44.0|NOTE:
+EQUIPNAME:Gloves of Dexterity +6|OUTPUTORDER:1|COST:36000|WT:0.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Potion (Cure Light Wounds)|OUTPUTORDER:9|COST:50|WT:0.0|QUANTITY:2.0|NOTE:
+EQUIPNAME:Rogue's Vest|OUTPUTORDER:5|COST:18000|WT:1.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Sickle +1 (Small)|OUTPUTORDER:3|COST:2306.0|WT:1.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Sickle|DATA:NAME=Sickle +1 (Small)$KEY=AUTOSIZESSickle +1$SIZE=S$EQMOD=STEEL.PLUS1W]
+EQUIPNAME:Slippers of Spider Climbing|OUTPUTORDER:6|COST:4800|WT:0.5|QUANTITY:1.0|NOTE:
+EQUIPNAME:Wand of Golem strike|OUTPUTORDER:7|COST:750|WT:0.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Wand (Golem strike)|DATA:NAME=Wand of Golem strike$KEY=Wand (Golem strike)]
+EQUIPNAME:Wand of Grave strike|OUTPUTORDER:8|COST:750|WT:0.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Wand (Grave strike)|DATA:NAME=Wand of Grave strike$KEY=Wand (Grave strike)]
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Hands|ID:0.1.01|VALUE:Gloves of Dexterity +6|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Torso|ID:0.1.02|VALUE:Rogue's Vest|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.03|VALUE:Wand of Golem strike|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.04|VALUE:Wand of Grave strike|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Foot|ID:0.1.07|VALUE:Slippers of Spider Climbing|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.08|VALUE:Potion (Cure Light Wounds)|QUANTITY:2.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.09|VALUE:Coin (Gold)|QUANTITY:44.0|USETEMPMODS:Y
+EQUIPSET:Natural-Primary|ID:0.1.10|VALUE:Bite (Natural/Primary)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Primary Hand|ID:0.1.11|VALUE:Sickle +1 (Small)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Body|ID:0.1.12|VALUE:Chain Shirt +5 (Small)|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+DEITY:None|DEITYDOMAINS:[DOMAIN:Abyss|DOMAIN:Abyss (1 of 2)|DOMAIN:AGASHA SCHOOL|DOMAIN:Air|DOMAIN:Animal|DOMAIN:Arborea|DOMAIN:Arborea (1 of 2)|DOMAIN:Artifice|DOMAIN:ASAHINA SCHOOL|DOMAIN:Baator|DOMAIN:Baator (1 of 2)|DOMAIN:Balance|DOMAIN:Bestial|DOMAIN:Blightbringer|DOMAIN:Cavern|DOMAIN:Celerity|DOMAIN:Celestia|DOMAIN:Celestia (1 of 2)|DOMAIN:Celestial|DOMAIN:Chaos|DOMAIN:Charm|DOMAIN:City|DOMAIN:Cold|DOMAIN:Commerce|DOMAIN:Community|DOMAIN:Competition|DOMAIN:Corruption|DOMAIN:Courage|DOMAIN:Craft|DOMAIN:Creation|DOMAIN:Darkness|DOMAIN:Death|DOMAIN:Deathbound|DOMAIN:Deathless|DOMAIN:Decay|DOMAIN:Demonic|DOMAIN:Destiny|DOMAIN:Destruction|DOMAIN:Diabolic|DOMAIN:Domination|DOMAIN:Dragon|DOMAIN:Dragon Below|DOMAIN:Dream|DOMAIN:Drow|DOMAIN:Dwarf|DOMAIN:Earth|DOMAIN:Elf|DOMAIN:Elysium|DOMAIN:Elysium (1 of 2)|DOMAIN:Endurance|DOMAIN:Envy|DOMAIN:Evil|DOMAIN:Exorcism|DOMAIN:Family|DOMAIN:Fate|DOMAIN:Feast|DOMAIN:Fey|DOMAIN:Fire|DOMAIN:Force|DOMAIN:Ghost|DOMAIN:Glory|DOMAIN:Gluttony|DOMAIN:Gnome|DOMAIN:Good|DOMAIN:Greed|DOMAIN:Hades|DOMAIN:Hades (1 of 2)|DOMAIN:Halfling|DOMAIN:Hatred|DOMAIN:Healing|DOMAIN:Herald|DOMAIN:Hunger|DOMAIN:Illusion|DOMAIN:Incarnum|DOMAIN:Inquisition|DOMAIN:IUCHI SCHOOL|DOMAIN:Joy|DOMAIN:KITSU SCHOOL|DOMAIN:Knowledge|DOMAIN:KUNI SCHOOL|DOMAIN:Law|DOMAIN:Liberation|DOMAIN:Life|DOMAIN:Limbo|DOMAIN:Limbo (1 of 2)|DOMAIN:Luck|DOMAIN:Lust|DOMAIN:Madness|DOMAIN:Magic|DOMAIN:Mechanus|DOMAIN:Mechanus (1 of 2)|DOMAIN:Meditation|DOMAIN:Mentalism|DOMAIN:Metal|DOMAIN:Mind|DOMAIN:Moon|DOMAIN:Mysticism|DOMAIN:Necromancer|DOMAIN:Nobility|DOMAIN:Ocean|DOMAIN:Oracle|DOMAIN:Orc|DOMAIN:Order of the All-Seeing Eye|DOMAIN:Order of the Consuming Flame|DOMAIN:Order of the Forbidding Wasteland|DOMAIN:Order of the Gentle Rain|DOMAIN:Order of the Impenetrable Crucible|DOMAIN:Order of the Ineffable Mystery|DOMAIN:Order of the Perfect Sculpture|DOMAIN:Order of the Spring Zephyr|DOMAIN:Pact|DOMAIN:Pain|DOMAIN:Passion|DOMAIN:Pestilence|DOMAIN:Planning|DOMAIN:Plant|DOMAIN:Pleasure|DOMAIN:Portal|DOMAIN:Pride|DOMAIN:Protection|DOMAIN:Purification|DOMAIN:Renewal|DOMAIN:Repose|DOMAIN:Retribution|DOMAIN:Rune|DOMAIN:Sand|DOMAIN:Scalykind|DOMAIN:Shadow|DOMAIN:Slime|DOMAIN:Sloth|DOMAIN:SOSHI SCHOOL|DOMAIN:Spell|DOMAIN:Spider|DOMAIN:Spite|DOMAIN:Storm|DOMAIN:Strength|DOMAIN:Suffering|DOMAIN:Summer|DOMAIN:Summoner|DOMAIN:Sun|DOMAIN:TAMORI SCHOOL|DOMAIN:Thirst|DOMAIN:Time|DOMAIN:Trade|DOMAIN:Travel|DOMAIN:Trickery|DOMAIN:Truth|DOMAIN:Tyranny|DOMAIN:Undeath|DOMAIN:Vile Darkness|DOMAIN:War|DOMAIN:Water|DOMAIN:Watery Death|DOMAIN:Wealth|DOMAIN:Weather|DOMAIN:Windstorm|DOMAIN:Winter|DOMAIN:Wrath|DOMAIN:YOGO SCHOOL]|ALIGNALLOW:|DESC:For No Deity Choices|DEITYFAVWEAP:[WEAPON:ALL]|DEITYALIGN:
+
+# Character Spells Information
+
+# Character Description/Bio/History
+CHARACTERBIO:You were born of an experiment to infuse humans with the stuff of Shadow, by a Transmuter.  &nl;You fell into a thieves' guild early on, as your shadow nature made you a natural.  &nl;Eventually you decided there were better uses for your talents.
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+CHARACTERDMNOTES:
+
+# Kits
+
+# Character Master/Follower
+
+# Character Notes Tab
+
+# Age Set Selections
+AGESET:0:0:1:0:0:0:0:0:0:0
+
+# Campaign History
+
+# Suppressed Biography Fields
+SUPPRESSBIOFIELDS:BIRTHDAY
+

@@ -1,0 +1,249 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:Faiths and Pantheons|CAMPAIGN:Drow of the Underdark|CAMPAIGN:Magic Item Compendium|CAMPAIGN:Secrets of Sarlona|CAMPAIGN:Complete Scoundrel|CAMPAIGN:Fiendish Codex II|CAMPAIGN:Cityscape (WotC)|CAMPAIGN:Complete Champion|CAMPAIGN:Complete Mage|CAMPAIGN:Complete Psionic|CAMPAIGN:Stormwrack|CAMPAIGN:Dragon Magic|CAMPAIGN:Tome of Battle: The Book of Nine Swords|CAMPAIGN:Player's Handbook II|CAMPAIGN:Tome of Magic|CAMPAIGN:Races of the Dragon|CAMPAIGN:Spell Compendium|CAMPAIGN:Champions of Valor|CAMPAIGN:Lords of Madness|CAMPAIGN:Magic of Incarnum|CAMPAIGN:Weapons of Legacy|CAMPAIGN:City of Splendors: Waterdeep|CAMPAIGN:Champions of Ruin|CAMPAIGN:3.5e ~ Heroes of Battle|CAMPAIGN:Races of Eberron|CAMPAIGN:Sandstorm|CAMPAIGN:Lost Empires of Faerun|CAMPAIGN:Complete Adventurer|CAMPAIGN:Races of Destiny|CAMPAIGN:Complete Arcane|CAMPAIGN:Draconomicon|CAMPAIGN:Libris Mortis|CAMPAIGN:Shining South|CAMPAIGN:Frostburn|CAMPAIGN:Monster Manual III|CAMPAIGN:Races of Stone|CAMPAIGN:Races of the Wild|CAMPAIGN:Planar Handbook|CAMPAIGN:Eberron Campaign Setting|CAMPAIGN:Complete Divine|CAMPAIGN:Expanded Psionics Handbook|CAMPAIGN:Into the Dragon's Lair (35e)|CAMPAIGN:Player's Guide to Faerun|CAMPAIGN:Pool of Radiance - Attack on Myth Drannor (35e)|CAMPAIGN:Races of Faerun (35e)|CAMPAIGN:Unearthed Arcana (Complete)|CAMPAIGN:Unearthed Arcana|CAMPAIGN:Complete Warrior|CAMPAIGN:Dungeon Master's Guide II|CAMPAIGN:Fiend Folio|CAMPAIGN:3.5e ~ Heroes of Horror|CAMPAIGN:Book of Exalted Deeds|CAMPAIGN:Miniatures Handbook|CAMPAIGN:Underdark|CAMPAIGN:Unapproachable East|CAMPAIGN:Arms and Equipment Guide|CAMPAIGN:Savage Species|CAMPAIGN:3.5e ~ Book of Vile Darkness|CAMPAIGN:Monster Manual II|CAMPAIGN:Wizards of the Coast - Monster Manual 2 (35e)|CAMPAIGN:Epic Level Handbook|CAMPAIGN:Deities and Demigods (35e)|CAMPAIGN:Oriental Adventures v.3.5|CAMPAIGN:Magic of Faerun|CAMPAIGN:Monster Compendium - Monsters of Faerun|CAMPAIGN:Fey Feature|CAMPAIGN:Spellbook Archive|CAMPAIGN:The Mind's Eye|CAMPAIGN:Dragons of Faerun - Web Enhancement - City of Wyrmshadows|CAMPAIGN:Dungeonscape|CAMPAIGN:35e ~ Ghostwalk|CAMPAIGN:Swiftblade|CAMPAIGN:Wizards of the Coast - Monster Manual 4 (35e)|CAMPAIGN:Dungeons & Dragons - Core Books
+VERSION:6.08.00 RC8
+ROLLMETHOD:0|EXPRESSION:0
+PURCHASEPOINTS:N
+CHARACTERTYPE:PC
+PREVIEWSHEET:Standard.htm.ftl
+POOLPOINTS:0
+POOLPOINTSAVAIL:-1
+GAMEMODE:35e
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+SKILLFILTER:2
+IGNORECOST:N
+ALLOWDEBT:N
+AUTORESIZEGEAR:Y
+
+# Character Bio
+CHARACTERNAME:Munky
+TABNAME:
+PLAYERNAME:
+HEIGHT:0
+WEIGHT:0
+AGE:0
+GENDER:Male
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:
+HAIRCOLOR:
+HAIRSTYLE:
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:
+
+# Character Attributes
+STAT:STR|SCORE:18
+STAT:DEX|SCORE:21
+STAT:CON|SCORE:16
+STAT:INT|SCORE:16
+STAT:WIS|SCORE:18
+STAT:CHA|SCORE:16
+ALIGN:NONE
+RACE:Monkey (Anthropomorphic)
+
+# Character Class(es)
+CLASS:Scout|LEVEL:3|SKILLPOOL:0|SPELLBASE:None|CANCASTPERDAY:
+CLASS:Ranger|LEVEL:9|SKILLPOOL:0|SPELLBASE:WIS|CANCASTPERDAY:0,1,0
+CLASSABILITIESLEVEL:Scout=1|HITPOINTS:8|SKILLSGAINED:44|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Scout=2|HITPOINTS:8|SKILLSGAINED:11|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Scout=3|HITPOINTS:8|SKILLSGAINED:11|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Ranger=1|HITPOINTS:8|PRESTAT:DEX=1|SKILLSGAINED:9|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Ranger=2|HITPOINTS:8|SKILLSGAINED:9|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Ranger=3|HITPOINTS:8|SKILLSGAINED:9|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Ranger=4|HITPOINTS:8|SKILLSGAINED:9|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Ranger=5|HITPOINTS:8|PRESTAT:DEX=1|SKILLSGAINED:9|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Ranger=6|HITPOINTS:8|SKILLSGAINED:9|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Ranger=7|HITPOINTS:8|SKILLSGAINED:9|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Ranger=8|HITPOINTS:8|SKILLSGAINED:9|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Ranger=9|HITPOINTS:8|PRESTAT:DEX=1|PRESTAT:CON=-2|PRESTAT:STR=2|SKILLSGAINED:9|SKILLSREMAINING:0
+
+# Character Experience
+EXPERIENCE:91000
+EXPERIENCETABLE:Default
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:Base Race Type]
+TEMPLATESAPPLIED:[NAME:First Level|APPLIEDTO:First Level ~ Not Listed]
+TEMPLATESAPPLIED:[NAME:First Level ~ Not Listed|CHOSENTEMPLATE:[NAME:Funds - PC]]
+TEMPLATESAPPLIED:[NAME:Shadow Creature]
+TEMPLATESAPPLIED:[NAME:Funds - PC]
+
+# Character Region
+REGION:None
+
+# Character Skills
+SKILL:Appraise|OUTPUTORDER:1|
+SKILL:Balance|OUTPUTORDER:2|CLASSBOUGHT:[CLASS:Scout|RANKS:6.0|COST:1|CLASSSKILL:Y]
+SKILL:Bluff|OUTPUTORDER:3|
+SKILL:Climb|OUTPUTORDER:4|CLASSBOUGHT:[CLASS:Scout|RANKS:6.0|COST:1|CLASSSKILL:Y]
+SKILL:Concentration|OUTPUTORDER:5|
+SKILL:Control Shape|OUTPUTORDER:6|
+SKILL:Craft (Untrained)|OUTPUTORDER:7|
+SKILL:Diplomacy|OUTPUTORDER:8|
+SKILL:Diplomacy (Red Dragons)|OUTPUTORDER:9|
+SKILL:Disable Device|OUTPUTORDER:10|CLASSBOUGHT:[CLASS:Scout|RANKS:6.0|COST:1|CLASSSKILL:Y]CLASSBOUGHT:[CLASS:Ranger|RANKS:9.0|COST:2|CLASSSKILL:N]
+SKILL:Disguise|OUTPUTORDER:11|
+SKILL:Escape Artist|OUTPUTORDER:12|
+SKILL:Forgery|OUTPUTORDER:13|
+SKILL:Gather Information|OUTPUTORDER:14|
+SKILL:Heal|OUTPUTORDER:15|
+SKILL:Hide|OUTPUTORDER:16|CLASSBOUGHT:[CLASS:Scout|RANKS:6.0|COST:1|CLASSSKILL:Y]CLASSBOUGHT:[CLASS:Ranger|RANKS:9.0|COST:1|CLASSSKILL:Y]
+SKILL:Hide (Forested Areas)|OUTPUTORDER:17|
+SKILL:Iaijutsu Focus|OUTPUTORDER:18|
+SKILL:Intimidate|OUTPUTORDER:19|
+SKILL:Intimidate (Demoralize opponent)|OUTPUTORDER:20|
+SKILL:Jump|OUTPUTORDER:21|
+SKILL:Knowledge (Dungeoneering)|OUTPUTORDER:22|CLASSBOUGHT:[CLASS:Scout|RANKS:6.0|COST:1|CLASSSKILL:Y]CLASSBOUGHT:[CLASS:Ranger|RANKS:9.0|COST:1|CLASSSKILL:Y]
+SKILL:Knowledge (Nature)|OUTPUTORDER:23|CLASSBOUGHT:[CLASS:Scout|RANKS:6.0|COST:1|CLASSSKILL:Y]CLASSBOUGHT:[CLASS:Ranger|RANKS:9.0|COST:1|CLASSSKILL:Y]
+SKILL:Knowledge (Shadowlands)|OUTPUTORDER:24|
+SKILL:Knowledge (Spirits)|OUTPUTORDER:25|
+SKILL:Knowledge (Untrained)|OUTPUTORDER:26|
+SKILL:Knowledge (war)|OUTPUTORDER:27|
+SKILL:Listen|OUTPUTORDER:28|
+SKILL:Literacy|OUTPUTORDER:29|
+SKILL:Move Silently|OUTPUTORDER:30|CLASSBOUGHT:[CLASS:Scout|RANKS:6.0|COST:1|CLASSSKILL:Y]
+SKILL:Move Silently (Forested Areas)|OUTPUTORDER:31|
+SKILL:Ride|OUTPUTORDER:32|
+SKILL:Search|OUTPUTORDER:33|CLASSBOUGHT:[CLASS:Scout|RANKS:6.0|COST:1|CLASSSKILL:Y]CLASSBOUGHT:[CLASS:Ranger|RANKS:7.0|COST:1|CLASSSKILL:Y]
+SKILL:Sense Motive|OUTPUTORDER:34|
+SKILL:Skill Trick|OUTPUTORDER:35|CLASSBOUGHT:[CLASS:Scout|RANKS:6.0|COST:1|CLASSSKILL:Y]CLASSBOUGHT:[CLASS:Ranger|RANKS:2.0|COST:1|CLASSSKILL:Y]
+SKILL:Spot|OUTPUTORDER:36|CLASSBOUGHT:[CLASS:Scout|RANKS:6.0|COST:1|CLASSSKILL:Y]CLASSBOUGHT:[CLASS:Ranger|RANKS:9.0|COST:1|CLASSSKILL:Y]
+SKILL:Survival|OUTPUTORDER:37|
+SKILL:Swim|OUTPUTORDER:38|
+SKILL:Tumble|OUTPUTORDER:39|CLASSBOUGHT:[CLASS:Scout|RANKS:6.0|COST:1|CLASSSKILL:Y]CLASSBOUGHT:[CLASS:Ranger|RANKS:9.0|COST:2|CLASSSKILL:N]
+SKILL:Use Rope|OUTPUTORDER:40|
+
+# Character Languages
+LANGUAGE:Blink Dog|LANGUAGE:Ettin Pidgin|LANGUAGE:Orc
+
+# Character Feats
+FEATPOOL:0.0
+
+# Character Abilities
+ABILITY:*LANGBONUS|TYPE:VIRTUAL|CATEGORY:*LANGBONUS|KEY:*LANGBONUS|APPLIEDTO:Orc,Blink Dog,Ettin Pidgin|TYPE:
+ABILITY:*LANGBONUS|TYPE:VIRTUAL|CATEGORY:*LANGBONUS|KEY:*LANGBONUS|APPLIEDTO:Orc,Blink Dog,Ettin Pidgin|TYPE:
+ABILITY:*LANGBONUS|TYPE:VIRTUAL|CATEGORY:*LANGBONUS|KEY:*LANGBONUS|APPLIEDTO:Orc,Blink Dog,Ettin Pidgin|TYPE:
+USERPOOL:*LANGBONUS|POOLPOINTS:0.0
+ABILITY:Alternate Class Feature|TYPE:NORMAL|CATEGORY:ACF|KEY:Ranger ACF ~ Champion of the Wild|TYPE:RangerSpellcasting.ACF|DESC:Replaces&colon; To select this class feature, you must sacrifice your spellcasting ability. Benefit&colon; You no longer gain spells as a ranger, but you can now select a bonus feat at 4th, 8th, 11th, and 14th levels. You can choose any feat from the following list for which you meet the prerequisites&colon; Blind-Fight, Combat Expertise, Eyes in the Back of Your HeadCW, Improved Disarm, Improved Favored EnemyCW, Improved Feint, and Improved Trip, as well as from one of the following lists, depending on your combat style. Archery&colon; Far Shot, Improved Precise Shot, Improved Rapid ShotCW, Manyshot, Point Blank Shot, Precise Shot, Ranged DisarmCW, Ranged PinCW, Ranged SunderCW, Sharp- ShootingCW, and Shot on the Run. Two-Weapon Combat&colon; Greater Two-Weapon DefenseCW, Greater Two-Weapon Fighting, Improved Two-Weapon DefenseCW, Improved Two-Weapon Fighting, Two-Weapon Defense, Weapon Finesse. Special&colon; A ranger who selects this path can no longer use scrolls, wands, or other magic items that require access to a spell list, unless he has another spellcasting class that grants access to the appropriate spells.
+ABILITY:Alternate Class Feature|TYPE:NORMAL|CATEGORY:ACF|KEY:Ranger ACF ~ Spiritual Connection|TYPE:RangerWildEmpathy.ACF|DESC:You learn to speak with spirits of the wild places. Although this ability does not automatically make such spirits well disposed toward you, it does provide several benefits. You can use speak with animals and speak with plants as the spells (caster level equals your ranger level). You can use any combination of these effects up to three times per day. This replaces Wild Empathy.|DESC:Replaces&colon; This benefit replaces the wild empathy class feature. Benefit&colon; You can use speak with animals and speak with plants, as the spells (caster level equals your ranger level). You can use any combination of these effects up to three times per day.
+ABILITY:Alternate Class Feature|TYPE:NORMAL|CATEGORY:ACF|KEY:Ranger ACF ~ Spiritual Guide|TYPE:RangerAnimalCompanion.ACF|DESC:You are befriended by a spiritual guide that speaks to you and aids you as long as you remain in the wilderness.  As long as you are in the wilderness you gain a bonus of %1 on Handle Animal, Knowledge (Nature), Listen, Search, Spot, and Survival checks. In addition you can use commune with nature, as the spell, once per day (caster level equals your ranger level). This replaces your animal companion.&pipe;SGSkillBonus|DESC:Replaces&colon; This benefit replaces the animal companion class feature. Benefit&colon; You gain a spiritual guide. As long as you remain in natural surroundings (including underground caverns), this guide is a constant companion. Once you enter any civilized area larger than a hamlet, however, your spiritual guide leaves your side, returning only when you return to the wilds. Although it cannot protect you from harm, your spiritual guide can warn you of impending danger. As long as your spiritual guide is with you, you gain a divine bonus equal to one-quarter your ranger level (rounded down) on Handle Animal, Knowledge (nature), Listen, Search, Spot, and Survival checks. In addition, you can use commune with nature, as the spell, once per day (caster level equals your ranger level). You can also prepare and cast this spell normally from your ranger spell list.
+USERPOOL:Alternate Class Feature|POOLPOINTS:0.0
+ABILITY:Champion of the Wild Two-Weapon Fighting Style|TYPE:NORMAL|CATEGORY:FEAT|KEY:Improved Two-Weapon Defense|TYPE:General.Fighter.ChampionOfTheWildTwoWeaponFighting
+ABILITY:Champion of the Wild Two-Weapon Fighting Style|TYPE:NORMAL|CATEGORY:FEAT|KEY:Two-Weapon Defense|TYPE:General.Fighter.ModifyAC.ChampionOfTheWildTwoWeaponFighting|DESC:Your two-weapon fighting style bolsters your defense as well as your offense.
+USERPOOL:Champion of the Wild Two-Weapon Fighting Style|POOLPOINTS:0.0
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Acrobatic Strike|TYPE:General.Fighter|DESC:Your dexterous maneuvers and skilled acrobatics allow you to slip past a foe's defenses and deliver an accurate strike against him.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Oversized Two-Weapon Fighting|TYPE:General.Fighter|DESC:You are adept at wielding larger than normal weapons in your off hand.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Swift Hunter|TYPE:General.Scout|DESC:You have applied the hit-and-run tactics learned from scouting to your strong hunting abilities. Prerequisite&colon; Favored enemy, skirmish +1d6/+1 AC.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Two-Weapon Pounce|TYPE:General.Fighter|DESC:When you charge an opponent while wielding two weapons, you can make two quick attacks. You trade the momentum and power of the charge for the opportunity to use your second weapon.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Weapon Focus|APPLIEDTO:Cutlass|TYPE:General.Fighter.Dragonrider.DivineChampion.ShadowThief.ViolentKnowledge|DESC:You are especially good at using this specified weapon.&pipe;!PRERULE&colon;1,DisplayFullFeat|DESC:Choose one type of weapon, such as greataxe. You can also choose unarmed strike or grapple (or ray, if you are a spellcaster) as your weapon for purposes of this feat. You are especially good at using this weapon. (If you have chosen ray, you are especially good with rays, such as the one produced by the ray of frost spell.)&pipe;PRERULE&colon;1,DisplayFullFeat
+USERPOOL:FEAT|POOLPOINTS:0.0
+ABILITY:Favored Enemy|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Favored Enemy ~ Construct|TYPE:Class Feature.Ranger Class Feature.FavoredEnemy.Extraordinary.SpecialAttack|DESC:Gain a +%1 bonus on Bluff, Listen, Sense Motive, Spot, and Survival checks when using these skills against creatures of this type. Likewise, he gets a +%1 bonus on weapon damage rolls against such creatures.&pipe;FavoredEnemyBonusConstruct
+ABILITY:Favored Enemy|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Favored Enemy ~ Elemental|TYPE:Class Feature.Ranger Class Feature.FavoredEnemy.Extraordinary.SpecialAttack|DESC:Gain a +%1 bonus on Bluff, Listen, Sense Motive, Spot, and Survival checks when using these skills against creatures of this type. Likewise, he gets a +%1 bonus on weapon damage rolls against such creatures.&pipe;FavoredEnemyBonusElemental
+ABILITY:Favored Enemy|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Favored Enemy ~ Undead|TYPE:Class Feature.Ranger Class Feature.FavoredEnemy.Extraordinary.SpecialAttack|DESC:Gain a +%1 bonus on Bluff, Listen, Sense Motive, Spot, and Survival checks when using these skills against creatures of this type. Likewise, he gets a +%1 bonus on weapon damage rolls against such creatures.&pipe;FavoredEnemyBonusUndead
+USERPOOL:Favored Enemy|POOLPOINTS:0.0
+ABILITY:Favored Enemy Bonus|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Favored Enemy Bonus ~ Construct|APPLIEDTO:|TYPE:FavoredEnemyBonus
+ABILITY:Favored Enemy Bonus|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Favored Enemy Bonus ~ Undead|APPLIEDTO:|TYPE:FavoredEnemyBonus
+USERPOOL:Favored Enemy Bonus|POOLPOINTS:0.0
+ABILITY:First Level Feat|TYPE:NORMAL|CATEGORY:Internal|KEY:+1 Feat to feat pool|APPLIEDTO:|TYPE:FirstLevelFeatOnly|DESC:Use this to bypass a First Level Only Feat, and pick any non-First Level only feats from the regular pool instead.
+USERPOOL:First Level Feat|POOLPOINTS:0.0
+ABILITY:Ranger Class|TYPE:NORMAL|CATEGORY:Internal|KEY:Variant Ranger ~ Without Spellcasting|TYPE:RangerClass
+USERPOOL:Ranger Class|POOLPOINTS:0.0
+ABILITY:Ranger Combat Style|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Combat Style ~ Two-Weapon Fighting|TYPE:Class Feature.Ranger Class Feature.SpecialQuality.RangerCombatStyle
+USERPOOL:Ranger Combat Style|POOLPOINTS:0.0
+ABILITY:Region|TYPE:NORMAL|CATEGORY:Regional|KEY:Region ~ None|TYPE:Region
+USERPOOL:Region|POOLPOINTS:0.0
+ABILITY:Shadow Creature Powers|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Shadow DR|TYPE:Shadow Power
+ABILITY:Shadow Creature Powers|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Shadow Saves|TYPE:SpecialQuality.Shadow Power
+ABILITY:Shadow Creature Powers|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Shadow ~ Fast Healing|TYPE:SpecialQuality.Extraordinary.Shadow Power|DESC:You regain 2 HP per round.
+USERPOOL:Shadow Creature Powers|POOLPOINTS:0.0
+ABILITY:Skill Tricks|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Skill Trick ~ Acrobatic Backstab|TYPE:ST.SpecialQuality.SkillTrick.Movement|DESC:If you succeed on a Tumble check t move tthrough an enemy's space, you can treat that enemy as flat-footed against the next melee attack you make against it on your current turn.
+ABILITY:Skill Tricks|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Skill Trick ~ Collector of Stories|TYPE:ST.SpecialQuality.SkillTrick.Mental|DESC:When you attempt a trained Knowledge check to identify a creature to learn its special powers or vulnerabilities, you gain a +5 competence bonus on the check.
+ABILITY:Skill Tricks|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Skill Trick ~ Nimble Stand|TYPE:ST.SpecialQuality.SkillTrick.Movement|DESC:You can stand up from prone without provoking attacks of opportuniy.
+ABILITY:Skill Tricks|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Skill Trick ~ Spot the Weak Point|TYPE:ST.SpecialQuality.SkillTrick.Mental|DESC:Once per encounter, as a Standard Action, you can attempt a spot check DC &lbracket;opponent's AC&rbracket; and your next attack &lbracket;range 30 ft&rbracket; is considered a touch attack.
+USERPOOL:Skill Tricks|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Aspergillum (Heavy)|WEAPON:Axe (Throwing)|WEAPON:Bash|WEAPON:Battle Gauntlet|WEAPON:Battleaxe|WEAPON:Bite|WEAPON:Blowgun|WEAPON:Boulder|WEAPON:Club|WEAPON:Crossbow (Heavy)]
+WEAPONPROF:[WEAPON:Crossbow (Light)|WEAPON:Cutlass|WEAPON:Dagger|WEAPON:Dagger (Punching)|WEAPON:Dart|WEAPON:Dart Thruster|WEAPON:Darts (Barbed)|WEAPON:Falchion|WEAPON:Flail|WEAPON:Flail (Heavy)]
+WEAPONPROF:[WEAPON:Gauntlet|WEAPON:Gauntlet (Spiked)|WEAPON:Glaive|WEAPON:Goblin Stick|WEAPON:Grapple|WEAPON:Greataxe|WEAPON:Greatclub|WEAPON:Greatsword|WEAPON:Guisarme|WEAPON:Halberd]
+WEAPONPROF:[WEAPON:Halfspear|WEAPON:Hammer (Light)|WEAPON:Handaxe|WEAPON:Ice Axe|WEAPON:Javelin|WEAPON:Katana|WEAPON:Kukri|WEAPON:Lance|WEAPON:Lance (Flight)|WEAPON:Lance (Heavy)]
+WEAPONPROF:[WEAPON:Longbow|WEAPON:Longspear|WEAPON:Longsword|WEAPON:Lucerne Hammer|WEAPON:Mace (Heavy)|WEAPON:Mace (Light)|WEAPON:Maul|WEAPON:Morningstar|WEAPON:Pick (Dire)|WEAPON:Pick (Heavy)]
+WEAPONPROF:[WEAPON:Pick (Light)|WEAPON:Quarterstaff|WEAPON:Ranged Spell|WEAPON:Ranseur|WEAPON:Rapier|WEAPON:Saber|WEAPON:Sap|WEAPON:Scimitar|WEAPON:Scythe|WEAPON:Shieldbash]
+WEAPONPROF:[WEAPON:Shortbow|WEAPON:Shortspear|WEAPON:Sickle|WEAPON:Sling|WEAPON:Spear|WEAPON:Spells (Ray)|WEAPON:Spells (Touch)|WEAPON:Spiked Armor|WEAPON:Strike (Unarmed)|WEAPON:Sword (Bastard)]
+WEAPONPROF:[WEAPON:Sword (Cutlass)|WEAPON:Sword (Saber)|WEAPON:Sword (Short)|WEAPON:Trident|WEAPON:Truncheon|WEAPON:Unarmed Strike|WEAPON:Wakizashi|WEAPON:Warhammer|WEAPON:Warmace]
+
+# Character Equipment
+MONEY:0
+EQUIPNAME:Amulet of Natural Armor +2|OUTPUTORDER:1|COST:8000|WT:0.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Belt, Monk's|OUTPUTORDER:6|COST:13000|WT:1.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Belt (Monk's)|DATA:NAME=Belt, Monk's$KEY=Belt (Monk's)]
+EQUIPNAME:Bite (Natural/Primary)|OUTPUTORDER:4|COST:0|WT:0.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Bite|DATA:KEY=Bite]
+EQUIPNAME:Coin (Gold)|OUTPUTORDER:11|COST:1|WT:0.02|QUANTITY:19.0|NOTE:
+EQUIPNAME:Cutlass +1 (Small/Flaming)|OUTPUTORDER:2|COST:8315.0|WT:1.5|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Cutlass|DATA:NAME=Cutlass +1 (Small/Flaming)$SIZE=S$EQMOD=STEEL.PLUS1W.Flaming (Weapon/Melee)]
+EQUIPNAME:Cutlass +1 (Small/Frost)|OUTPUTORDER:3|COST:8315.0|WT:1.5|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Cutlass|DATA:NAME=Cutlass +1 (Small/Frost)$SIZE=S$EQMOD=STEEL.PLUS1W.Frost (Weapon/Melee)]
+EQUIPNAME:Everlasting Rations|OUTPUTORDER:9|COST:350|WT:2.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Gloves of Dexterity +4|OUTPUTORDER:5|COST:16000|WT:0.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Rogue's Vest|OUTPUTORDER:7|COST:18000|WT:1.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Scout's Boots Of Speed|OUTPUTORDER:8|COST:16000.0|WT:0.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Boots|DATA:NAME=Scout's Boots Of Speed$EQMOD=SPL_ACT&pipe;SPELLNAME&lbracket;Hustle&rbracket; CASTER&lbracket;Psychic Warrior&rbracket; SPELLTYPE&lbracket;Psionic&rbracket; SPELLLEVEL&lbracket;2&rbracket; CASTERLEVEL&lbracket;4&rbracket; $SPROP=As a free action, click your heels together to activate gain a move action.  Usable 1/turn.]
+EQUIPNAME:Waterskin (Filled) (Small)|OUTPUTORDER:10|COST:1|WT:1.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Waterskin (Filled)|DATA:NAME=Waterskin (Filled) (Small)$KEY=AUTOSIZESWaterskin (Filled)$SIZE=S]
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Primary Hand|ID:0.1.02|VALUE:Cutlass +1 (Small/Flaming)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Secondary Hand|ID:0.1.03|VALUE:Cutlass +1 (Small/Frost)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Torso|ID:0.1.05|VALUE:Rogue's Vest|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Foot|ID:0.1.06|VALUE:Scout's Boots Of Speed|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Hands|ID:0.1.07|VALUE:Gloves of Dexterity +4|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Waist|ID:0.1.08|VALUE:Belt, Monk's|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Neck|ID:0.1.09|VALUE:Amulet of Natural Armor +2|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Natural-Primary|ID:0.1.1|VALUE:Bite (Natural/Primary)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.10|VALUE:Everlasting Rations|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.11|VALUE:Waterskin (Filled) (Small)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.12|VALUE:Coin (Gold)|QUANTITY:19.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+
+# Character Spells Information
+SPELLBOOK:Class|TYPE:4
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:Small size dumps weapon damage, but who cares - Skirmish Damage is where it's at. &nl;Based on your very persuasive arguments, ditched Travel Devotion for boots that provide At-Will *Hustle*. This let me discard all the Flaws taken for this build. &nl;Cheese&colon; Hustle every turn to get Skirmish Damage and Full Attack both. &nl;Extra Cheese&colon; Make your tumble Check &lbracket;DC 25 - you only fail on a natural 1&rbracket;, in order to move through your victim's space. The Acrobatic Backstab skill trick will deny them their dexterity bonus to AC for your next Melee attack this turn.&nl;Gilding The Lily&colon; For a really tough opponent, you can roll Spot vs their AC &lbracket;Skill trick, Spot The Weakness&rbracket; to resolve the next melee attack as a touch attack.  If you combine this with Acrobatic Backstab, then you are aiming at 10&lbracket;Or less for Large or bigger creatures&rbracket;+any deflection bonus they have.  &nl;
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+CHARACTERDMNOTES:
+
+# Kits
+
+# Character Master/Follower
+
+# Character Notes Tab
+
+# Age Set Selections
+AGESET:0:0:0:0:0:0:0:0:0:0
+
+# Campaign History
+
+# Suppressed Biography Fields
+SUPPRESSBIOFIELDS:
+

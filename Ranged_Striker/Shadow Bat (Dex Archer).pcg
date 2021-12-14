@@ -1,0 +1,250 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:Faiths and Pantheons|CAMPAIGN:Drow of the Underdark|CAMPAIGN:Magic Item Compendium|CAMPAIGN:Secrets of Sarlona|CAMPAIGN:Complete Scoundrel|CAMPAIGN:Fiendish Codex II|CAMPAIGN:Cityscape (WotC)|CAMPAIGN:Complete Champion|CAMPAIGN:Complete Mage|CAMPAIGN:Complete Psionic|CAMPAIGN:Stormwrack|CAMPAIGN:Dragon Magic|CAMPAIGN:Tome of Battle: The Book of Nine Swords|CAMPAIGN:Player's Handbook II|CAMPAIGN:Tome of Magic|CAMPAIGN:Races of the Dragon|CAMPAIGN:Spell Compendium|CAMPAIGN:Champions of Valor|CAMPAIGN:Lords of Madness|CAMPAIGN:Magic of Incarnum|CAMPAIGN:Weapons of Legacy|CAMPAIGN:City of Splendors: Waterdeep|CAMPAIGN:Champions of Ruin|CAMPAIGN:3.5e ~ Heroes of Battle|CAMPAIGN:Races of Eberron|CAMPAIGN:Sandstorm|CAMPAIGN:Lost Empires of Faerun|CAMPAIGN:Complete Adventurer|CAMPAIGN:Races of Destiny|CAMPAIGN:Complete Arcane|CAMPAIGN:Draconomicon|CAMPAIGN:Libris Mortis|CAMPAIGN:Shining South|CAMPAIGN:Frostburn|CAMPAIGN:Monster Manual III|CAMPAIGN:Races of Stone|CAMPAIGN:Races of the Wild|CAMPAIGN:Planar Handbook|CAMPAIGN:Eberron Campaign Setting|CAMPAIGN:Complete Divine|CAMPAIGN:Expanded Psionics Handbook|CAMPAIGN:Into the Dragon's Lair (35e)|CAMPAIGN:Player's Guide to Faerun|CAMPAIGN:Pool of Radiance - Attack on Myth Drannor (35e)|CAMPAIGN:Races of Faerun (35e)|CAMPAIGN:Unearthed Arcana (Complete)|CAMPAIGN:Unearthed Arcana|CAMPAIGN:Complete Warrior|CAMPAIGN:Dungeon Master's Guide II|CAMPAIGN:Fiend Folio|CAMPAIGN:3.5e ~ Heroes of Horror|CAMPAIGN:Book of Exalted Deeds|CAMPAIGN:Miniatures Handbook|CAMPAIGN:Underdark|CAMPAIGN:Unapproachable East|CAMPAIGN:Arms and Equipment Guide|CAMPAIGN:Savage Species|CAMPAIGN:3.5e ~ Book of Vile Darkness|CAMPAIGN:Monster Manual II|CAMPAIGN:Wizards of the Coast - Monster Manual 2 (35e)|CAMPAIGN:Epic Level Handbook|CAMPAIGN:Deities and Demigods (35e)|CAMPAIGN:Oriental Adventures v.3.5|CAMPAIGN:Magic of Faerun|CAMPAIGN:Monster Compendium - Monsters of Faerun|CAMPAIGN:Fey Feature|CAMPAIGN:Spellbook Archive|CAMPAIGN:The Mind's Eye|CAMPAIGN:Dragons of Faerun - Web Enhancement - City of Wyrmshadows|CAMPAIGN:Dungeonscape|CAMPAIGN:35e ~ Ghostwalk|CAMPAIGN:Swiftblade|CAMPAIGN:Wizards of the Coast - Monster Manual 4 (35e)|CAMPAIGN:Dungeons & Dragons - Core Books
+VERSION:6.08.00 RC8
+ROLLMETHOD:0|EXPRESSION:0
+PURCHASEPOINTS:N
+CHARACTERTYPE:PC
+PREVIEWSHEET:Standard.htm.ftl
+POOLPOINTS:0
+POOLPOINTSAVAIL:-1
+GAMEMODE:35e
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+SKILLFILTER:2
+IGNORECOST:N
+ALLOWDEBT:N
+AUTORESIZEGEAR:Y
+
+# Character Bio
+CHARACTERNAME:Shadow Bat
+TABNAME:
+PLAYERNAME:
+HEIGHT:0
+WEIGHT:0
+AGE:0
+GENDER:Male
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:
+HAIRCOLOR:
+HAIRSTYLE:
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:C&colon;\Users\myrlyn\Downloads\bat.jpg
+PORTRAITTHUMBNAILRECT:37,30,100,100
+
+# Character Attributes
+STAT:STR|SCORE:16
+STAT:DEX|SCORE:21
+STAT:CON|SCORE:16
+STAT:INT|SCORE:18
+STAT:WIS|SCORE:18
+STAT:CHA|SCORE:16
+ALIGN:CE
+RACE:Bat (Anthropomorphic)
+
+# Character Class(es)
+CLASS:Rogue|LEVEL:3|SKILLPOOL:0|SPELLBASE:None|CANCASTPERDAY:
+CLASS:Psychic Rogue|LEVEL:1|SKILLPOOL:0|SPELLBASE:INT|CANCASTPERDAY:
+CLASS:Fighter|LEVEL:4|SKILLPOOL:0|SPELLBASE:None|CANCASTPERDAY:
+CLASS:Shadow Thief of Amn|LEVEL:1|SKILLPOOL:0|SPELLBASE:None|CANCASTPERDAY:
+CLASS:Assassin|LEVEL:1|SKILLPOOL:0|SPELLBASE:INT|CANCASTPERDAY:0,0
+CLASS:Unseen Seer|LEVEL:2|SKILLPOOL:0|SPELLBASE:None|CANCASTPERDAY:
+CLASSABILITIESLEVEL:Rogue=1|HITPOINTS:6|SKILLSGAINED:48|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Rogue=2|HITPOINTS:6|SKILLSGAINED:12|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Rogue=3|HITPOINTS:6|SKILLSGAINED:12|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Psychic Rogue=1|HITPOINTS:6|PRESTAT:DEX=1|SKILLSGAINED:10|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Fighter=1|HITPOINTS:10|SKILLSGAINED:6|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Shadow Thief of Amn=1|HITPOINTS:6|SKILLSGAINED:10|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Fighter=2|HITPOINTS:10|SKILLSGAINED:6|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Fighter=3|HITPOINTS:10|PRESTAT:DEX=1|SKILLSGAINED:6|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Assassin=1|HITPOINTS:6|SKILLSGAINED:8|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Unseen Seer=1|HITPOINTS:4|SAVES:[SAVE:BONUS&pipe;PCLEVEL&pipe;ASSASSIN&pipe;1]|ADD:[SPELLCASTER:Arcane|CHOICE:Assassin]|SKILLSGAINED:10|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Unseen Seer=2|HITPOINTS:4|SAVES:[SAVE:BONUS&pipe;PCLEVEL&pipe;ASSASSIN&pipe;1]|ADD:[SPELLCASTER:Arcane|CHOICE:Assassin]|SKILLSGAINED:10|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Fighter=4|HITPOINTS:10|PRESTAT:DEX=1|SKILLSGAINED:6|SKILLSREMAINING:0
+
+# Character Experience
+EXPERIENCE:69000
+EXPERIENCETABLE:Default
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:Base Race Type]
+TEMPLATESAPPLIED:[NAME:First Level|APPLIEDTO:First Level ~ Rogue]
+TEMPLATESAPPLIED:[NAME:Psionic]
+TEMPLATESAPPLIED:[NAME:First Level ~ Rogue|CHOSENTEMPLATE:[NAME:Funds - PC]]
+TEMPLATESAPPLIED:[NAME:Funds - PC]
+TEMPLATESAPPLIED:[NAME:Shadow Creature]
+
+# Character Region
+REGION:None
+
+# Character Skills
+SKILL:Appraise|OUTPUTORDER:1|
+SKILL:Balance|OUTPUTORDER:2|
+SKILL:Bluff|OUTPUTORDER:3|CLASSBOUGHT:[CLASS:Psychic Rogue|RANKS:1.0|COST:1|CLASSSKILL:Y]CLASSBOUGHT:[CLASS:Rogue|RANKS:6.0|COST:1|CLASSSKILL:Y]
+SKILL:Climb|OUTPUTORDER:4|
+SKILL:Concentration|OUTPUTORDER:5|
+SKILL:Control Shape|OUTPUTORDER:6|
+SKILL:Craft (Untrained)|OUTPUTORDER:7|
+SKILL:Diplomacy|OUTPUTORDER:8|
+SKILL:Diplomacy (Red Dragons)|OUTPUTORDER:9|
+SKILL:Disguise|OUTPUTORDER:10|CLASSBOUGHT:[CLASS:Psychic Rogue|RANKS:1.0|COST:1|CLASSSKILL:Y]CLASSBOUGHT:[CLASS:Rogue|RANKS:6.0|COST:1|CLASSSKILL:Y]
+SKILL:Escape Artist|OUTPUTORDER:11|
+SKILL:Forgery|OUTPUTORDER:12|
+SKILL:Gather Information|OUTPUTORDER:13|CLASSBOUGHT:[CLASS:Psychic Rogue|RANKS:1.0|COST:1|CLASSSKILL:Y]CLASSBOUGHT:[CLASS:Rogue|RANKS:6.0|COST:1|CLASSSKILL:Y]
+SKILL:Heal|OUTPUTORDER:14|
+SKILL:Hide|OUTPUTORDER:15|CLASSBOUGHT:[CLASS:Psychic Rogue|RANKS:1.0|COST:1|CLASSSKILL:Y]CLASSBOUGHT:[CLASS:Unseen Seer|RANKS:5.0|COST:1|CLASSSKILL:Y]CLASSBOUGHT:[CLASS:Rogue|RANKS:6.0|COST:1|CLASSSKILL:Y]CLASSBOUGHT:[CLASS:Fighter|RANKS:3.0|COST:2|CLASSSKILL:N]
+SKILL:Hide (Forested Areas)|OUTPUTORDER:16|
+SKILL:Iaijutsu Focus|OUTPUTORDER:17|
+SKILL:Intimidate|OUTPUTORDER:18|CLASSBOUGHT:[CLASS:Psychic Rogue|RANKS:1.0|COST:1|CLASSSKILL:Y]CLASSBOUGHT:[CLASS:Rogue|RANKS:6.0|COST:1|CLASSSKILL:Y]CLASSBOUGHT:[CLASS:Fighter|RANKS:1.0|COST:1|CLASSSKILL:Y]
+SKILL:Intimidate (Demoralize opponent)|OUTPUTORDER:19|
+SKILL:Jump|OUTPUTORDER:20|
+SKILL:Knowledge (Shadowlands)|OUTPUTORDER:21|
+SKILL:Knowledge (Spirits)|OUTPUTORDER:22|
+SKILL:Knowledge (Untrained)|OUTPUTORDER:23|
+SKILL:Knowledge (war)|OUTPUTORDER:24|
+SKILL:Listen|OUTPUTORDER:25|CLASSBOUGHT:[CLASS:Psychic Rogue|RANKS:1.0|COST:1|CLASSSKILL:Y]CLASSBOUGHT:[CLASS:Rogue|RANKS:6.0|COST:1|CLASSSKILL:Y]
+SKILL:Literacy|OUTPUTORDER:26|
+SKILL:Move Silently|OUTPUTORDER:27|CLASSBOUGHT:[CLASS:Psychic Rogue|RANKS:1.0|COST:1|CLASSSKILL:Y]CLASSBOUGHT:[CLASS:Rogue|RANKS:6.0|COST:1|CLASSSKILL:Y]CLASSBOUGHT:[CLASS:Fighter|RANKS:2.0|COST:2|CLASSSKILL:N]CLASSBOUGHT:[CLASS:Shadow Thief of Amn|RANKS:2.0|COST:1|CLASSSKILL:Y]
+SKILL:Move Silently (Forested Areas)|OUTPUTORDER:28|
+SKILL:Ride|OUTPUTORDER:29|
+SKILL:Search|OUTPUTORDER:30|CLASSBOUGHT:[CLASS:Assassin|RANKS:3.0|COST:1|CLASSSKILL:Y]CLASSBOUGHT:[CLASS:Psychic Rogue|RANKS:1.0|COST:1|CLASSSKILL:Y]CLASSBOUGHT:[CLASS:Rogue|RANKS:6.0|COST:1|CLASSSKILL:Y]CLASSBOUGHT:[CLASS:Shadow Thief of Amn|RANKS:2.0|COST:1|CLASSSKILL:Y]
+SKILL:Sense Motive|OUTPUTORDER:31|CLASSBOUGHT:[CLASS:Assassin|RANKS:3.0|COST:1|CLASSSKILL:Y]CLASSBOUGHT:[CLASS:Fighter|RANKS:1.0|COST:2|CLASSSKILL:N]
+SKILL:Sleight of Hand|OUTPUTORDER:32|CLASSBOUGHT:[CLASS:Psychic Rogue|RANKS:1.0|COST:1|CLASSSKILL:Y]CLASSBOUGHT:[CLASS:Rogue|RANKS:6.0|COST:1|CLASSSKILL:Y]
+SKILL:Spellcraft|OUTPUTORDER:33|CLASSBOUGHT:[CLASS:Assassin|RANKS:0.5|COST:2|CLASSSKILL:N]CLASSBOUGHT:[CLASS:Psychic Rogue|RANKS:0.5|COST:2|CLASSSKILL:N]CLASSBOUGHT:[CLASS:Rogue|RANKS:3.0|COST:2|CLASSSKILL:N]CLASSBOUGHT:[CLASS:Fighter|RANKS:1.5|COST:2|CLASSSKILL:N]CLASSBOUGHT:[CLASS:Shadow Thief of Amn|RANKS:0.5|COST:2|CLASSSKILL:N]
+SKILL:Spot|OUTPUTORDER:34|CLASSBOUGHT:[CLASS:Assassin|RANKS:1.0|COST:1|CLASSSKILL:Y]CLASSBOUGHT:[CLASS:Fighter|RANKS:3.0|COST:2|CLASSSKILL:N]CLASSBOUGHT:[CLASS:Shadow Thief of Amn|RANKS:5.0|COST:1|CLASSSKILL:Y]
+SKILL:Survival|OUTPUTORDER:35|
+SKILL:Swim|OUTPUTORDER:36|
+SKILL:Tumble|OUTPUTORDER:37|CLASSBOUGHT:[CLASS:Rogue|RANKS:6.0|COST:1|CLASSSKILL:Y]
+SKILL:Use Magic Device|OUTPUTORDER:38|CLASSBOUGHT:[CLASS:Unseen Seer|RANKS:7.5|COST:2|CLASSSKILL:N]CLASSBOUGHT:[CLASS:Rogue|RANKS:6.0|COST:1|CLASSSKILL:Y]CLASSBOUGHT:[CLASS:Fighter|RANKS:1.0|COST:2|CLASSSKILL:N]
+SKILL:Use Rope|OUTPUTORDER:39|
+
+# Character Languages
+LANGUAGE:Auran|LANGUAGE:Sylvan|LANGUAGE:Terran|LANGUAGE:Undercommon
+
+# Character Feats
+FEATPOOL:0.0
+
+# Character Abilities
+ABILITY:*LANGBONUS|TYPE:VIRTUAL|CATEGORY:*LANGBONUS|KEY:*LANGBONUS|APPLIEDTO:Auran,Sylvan,Terran,Undercommon|TYPE:
+ABILITY:*LANGBONUS|TYPE:VIRTUAL|CATEGORY:*LANGBONUS|KEY:*LANGBONUS|APPLIEDTO:Auran,Sylvan,Terran,Undercommon|TYPE:
+ABILITY:*LANGBONUS|TYPE:VIRTUAL|CATEGORY:*LANGBONUS|KEY:*LANGBONUS|APPLIEDTO:Auran,Sylvan,Terran,Undercommon|TYPE:
+ABILITY:*LANGBONUS|TYPE:VIRTUAL|CATEGORY:*LANGBONUS|KEY:*LANGBONUS|APPLIEDTO:Auran,Sylvan,Terran,Undercommon|TYPE:
+USERPOOL:*LANGBONUS|POOLPOINTS:0.0
+ABILITY:Alternate Class Feature|TYPE:NORMAL|CATEGORY:ACF|KEY:Fighter ~ Sneak Attack|TYPE:ACF.FighterBonusFeats|DESC:Some fighters prefer stealth and cunning over martial skill. This variant can also be combined with the thug variant described earlier in this chapter.  Gain&colon; Sneak attack (as rogue).  Lose&colon; Bonus feats.
+ABILITY:Alternate Class Feature|TYPE:NORMAL|CATEGORY:ACF|KEY:Rogue ACF ~ Penetrating Strike|TYPE:RogueTrapSense.ACF|DESC:You have exchanged the Trap Sense class feature for the ability to gain some benefit from sneak attacking creatures normally immune.
+USERPOOL:Alternate Class Feature|POOLPOINTS:0.0
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Air Heritage|TYPE:Heritage|DESC:You are descended from creatures native to the Elemental Plane of Air. You share some of your ancestors' natural agility and grace.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Darkstalker|TYPE:General|DESC:When you hide, creatures with blindsense, blindsight, scent, or tremorsense mustmake a Listen check or a Spot check (whichever DC is higher) to notice you, just as sighted creatures would makeSpot checks to detect you. You cannot hide in plain sight unless you have that ability as a class feature. In addition, you can fl ank creatures that have the all-around vision special quality.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Hover|TYPE:General.EpicDragonDisciple|DESC:When flying, the creature can halt its forward motion and hover in place as a move action. It can then fly in any direction, including straight down or straight up, at half speed, regardless of its maneuverability. If a creature begins its turn hovering, it can hover in place for the turn and take a full-round action. A hovering creature cannot make wing attacks, but it can attack with all other limbs and appendages it could use in a full attack. The creature can instead use a breath weapon or cast a spell instead of making physical attacks, if it could normally do so. If a creature of Large size or larger hovers within 20 feet of the ground in an area with lots of loose debris, the draft from its wings creates a hemispherical cloud with a radius of 60 feet. The winds so generated can snuff torches, small campfires, exposed lanterns, and other small, open flames of nonmagical origin. Clear vision within the cloud is limited to 10 feet. Creatures have concealment at 15 to 20 feet (20%% miss chance). At 25 feet or more, creatures have total concealment (50%% miss chance, and opponents cannot use sight to locate the creature). Those caught in the cloud must succeed on a Concentration check (DC 10 + 1/2 creature's HD) to cast a spell. Normal&colon; Without this feat, a creature must keep moving while flying unless it has perfect maneuverability.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Improved Rapid Shot|TYPE:General.Fighter.ChampionOfTheWildArchery
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Manyshot|TYPE:General.Fighter.AttackOption.ChampionOfTheWildArchery|DESC:You can fire multiple arrows simultaneously against a nearby target.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Persuasive|TYPE:General.ShadowThief|DESC:You have a way with words and body language.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Point Blank Shot|TYPE:General.Fighter.AttackOption.ChampionOfTheWildArchery.ViolentKnowledge|DESC:You are skilled at making well-placed shots with ranged weapons at close range.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Rapid Shot|TYPE:General.Fighter.AttackOption.ViolentKnowledge|DESC:You can use ranged weapons with exceptional speed.
+USERPOOL:FEAT|POOLPOINTS:0.0
+ABILITY:First Level Feat|TYPE:NORMAL|CATEGORY:Internal|KEY:+1 Feat to feat pool|APPLIEDTO:|TYPE:FirstLevelFeatOnly|DESC:Use this to bypass a First Level Only Feat, and pick any non-First Level only feats from the regular pool instead.
+USERPOOL:First Level Feat|POOLPOINTS:0.0
+ABILITY:Flaws|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Flaw ~ Meager Fortitude|TYPE:Flaws.SpecialQuality|DESC:You are sickly and weak of stomach.
+ABILITY:Flaws|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Flaw ~ Noncombatant|TYPE:Flaws.SpecialQuality|DESC:You are relatively inept at melee combat.
+ABILITY:Flaws|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Flaw ~ Weak Will|TYPE:Flaws.SpecialQuality|DESC:You are highly suggestible and easily duped.
+USERPOOL:Flaws|POOLPOINTS:0.0
+ABILITY:Region|TYPE:NORMAL|CATEGORY:Regional|KEY:Region ~ None|TYPE:Region
+USERPOOL:Region|POOLPOINTS:0.0
+ABILITY:Shadow Creature Powers|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Shadow DR|TYPE:Shadow Power
+ABILITY:Shadow Creature Powers|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Shadow Saves|TYPE:SpecialQuality.Shadow Power
+ABILITY:Shadow Creature Powers|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Shadow ~ Fast Healing|TYPE:SpecialQuality.Extraordinary.Shadow Power|DESC:You regain 2 HP per round.
+USERPOOL:Shadow Creature Powers|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Aspergillum (Heavy)|WEAPON:Axe (Throwing)|WEAPON:Bash|WEAPON:Battle Gauntlet|WEAPON:Battleaxe|WEAPON:Blowgun|WEAPON:Boulder|WEAPON:Club|WEAPON:Crossbow (Hand)|WEAPON:Crossbow (Heavy)]
+WEAPONPROF:[WEAPON:Crossbow (Light)|WEAPON:Cutlass|WEAPON:Dagger|WEAPON:Dagger (Punching)|WEAPON:Dart|WEAPON:Dart Thruster|WEAPON:Darts (Barbed)|WEAPON:Falchion|WEAPON:Flail|WEAPON:Flail (Heavy)]
+WEAPONPROF:[WEAPON:Gauntlet|WEAPON:Gauntlet (Spiked)|WEAPON:Glaive|WEAPON:Goblin Stick|WEAPON:Grapple|WEAPON:Greataxe|WEAPON:Greatclub|WEAPON:Greatsword|WEAPON:Guisarme|WEAPON:Halberd]
+WEAPONPROF:[WEAPON:Halfspear|WEAPON:Hammer (Light)|WEAPON:Handaxe|WEAPON:Ice Axe|WEAPON:Javelin|WEAPON:Katana|WEAPON:Kukri|WEAPON:Lance|WEAPON:Lance (Flight)|WEAPON:Lance (Heavy)]
+WEAPONPROF:[WEAPON:Longbow|WEAPON:Longspear|WEAPON:Longsword|WEAPON:Lucerne Hammer|WEAPON:Mace (Heavy)|WEAPON:Mace (Light)|WEAPON:Maul|WEAPON:Morningstar|WEAPON:NoProfReq|WEAPON:Pick (Dire)]
+WEAPONPROF:[WEAPON:Pick (Heavy)|WEAPON:Pick (Light)|WEAPON:Quarterstaff|WEAPON:Ranged Spell|WEAPON:Ranseur|WEAPON:Rapier|WEAPON:Saber|WEAPON:Sap|WEAPON:Scimitar|WEAPON:Scythe]
+WEAPONPROF:[WEAPON:Shieldbash|WEAPON:Shortbow|WEAPON:Shortspear|WEAPON:Sickle|WEAPON:Sling|WEAPON:Spear|WEAPON:Spells (Ray)|WEAPON:Spells (Touch)|WEAPON:Spiked Armor|WEAPON:Strike (Unarmed)]
+WEAPONPROF:[WEAPON:Sword (Bastard)|WEAPON:Sword (Cutlass)|WEAPON:Sword (Saber)|WEAPON:Sword (Short)|WEAPON:Trident|WEAPON:Truncheon|WEAPON:Unarmed Strike|WEAPON:Wakizashi|WEAPON:Warhammer|WEAPON:Warmace]
+
+# Character Equipment
+MONEY:0
+EQUIPNAME:Arrow (20) (Small)|OUTPUTORDER:12|COST:1.0|WT:1.5|QUANTITY:5.0|NOTE:|CUSTOMIZATION:[BASEITEM:Arrow (20)|DATA:NAME=Arrow (20) (Small)$KEY=AUTOSIZESArrow (20)$SIZE=S$EQMOD=STEEL.WOOD]
+EQUIPNAME:Belt, Monk's|OUTPUTORDER:7|COST:13000|WT:1.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Belt (Monk's)|DATA:NAME=Belt, Monk's$KEY=Belt (Monk's)]
+EQUIPNAME:Coin (Gold)|OUTPUTORDER:11|COST:1|WT:0.02|QUANTITY:40.0|NOTE:
+EQUIPNAME:Gloves of Dexterity +6|OUTPUTORDER:2|COST:36000|WT:0.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Longbow, Composite +1 (Small/Corrosive/+3)|OUTPUTORDER:4|COST:8700.0|WT:1.5|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Longbow (Composite)|DATA:NAME=Longbow, Composite +1 (Small/Corrosive/+3)$KEY=Longbow +1 (Composite/Small/Corrosive/+3)$SIZE=S$EQMOD=WOOD.BOWSTR&pipe;+3.PLUS1W.CRRSV]
+EQUIPNAME:Ring of Protection +1|OUTPUTORDER:3|COST:2000|WT:0.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Rogue's Vest|OUTPUTORDER:6|COST:18000|WT:1.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Signet Ring (Sniper's Shot/Assassin/1st)|OUTPUTORDER:1|COST:8005.0|WT:0.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Signet Ring|DATA:NAME=Signet Ring (Sniper's Shot/Assassin/1st)$KEY=Signet Ring (Sniper_s Shot/Assassin/1st)$EQMOD=SPL_CON_ROUND&pipe;SPELLNAME&lbracket;Sniper's Shot&rbracket; CASTER&lbracket;Assassin&rbracket; SPELLTYPE&lbracket;Arcane&rbracket; SPELLLEVEL&lbracket;1&rbracket; CASTERLEVEL&lbracket;1&rbracket;]
+EQUIPNAME:Traveler's Outfit (Small)|OUTPUTORDER:5|COST:0|WT:1.25|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Traveler's Outfit|DATA:NAME=Traveler's Outfit (Small)$KEY=Traveler_s Outfit (Small)$SIZE=S$COSTMOD=-1]
+EQUIPNAME:Wand (Charm Person)|OUTPUTORDER:10|COST:750.0|WT:0.0625|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Wand|DATA:NAME=Wand (Charm Person)$EQMOD=SPL_CHRG&pipe;SPELLNAME&lbracket;Charm Person&rbracket;SPELLLEVEL&lbracket;1&rbracket;CASTERLEVEL&lbracket;1&rbracket;CHARGES&lbracket;50&rbracket;]
+EQUIPNAME:Wand of Golem strike|OUTPUTORDER:9|COST:750|WT:0.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Wand (Golem strike)|DATA:NAME=Wand of Golem strike$KEY=Wand (Golem strike)]
+EQUIPNAME:Wand of Grave strike|OUTPUTORDER:8|COST:750|WT:0.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Wand (Grave strike)|DATA:NAME=Wand of Grave strike$KEY=Wand (Grave strike)]
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Clothing|ID:0.1.01|VALUE:Traveler's Outfit (Small)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Fingers|ID:0.1.02|VALUE:Signet Ring (Sniper's Shot/Assassin/1st)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Hands|ID:0.1.04|VALUE:Gloves of Dexterity +6|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.06|VALUE:Wand of Grave strike|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.07|VALUE:Wand of Golem strike|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Torso|ID:0.1.08|VALUE:Rogue's Vest|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Fingers|ID:0.1.10|VALUE:Ring of Protection +1|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Both Hands|ID:0.1.11|VALUE:Longbow, Composite +1 (Small/Corrosive/+3)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.12|VALUE:Wand (Charm Person)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.13|VALUE:Coin (Gold)|QUANTITY:10.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.14|VALUE:Arrow (20) (Small)|QUANTITY:5.0|USETEMPMODS:Y
+EQUIPSET:Waist|ID:0.1.15|VALUE:Belt, Monk's|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+
+# Character Spells Information
+SPELLNAME:Control Light|TIMES:1|CLASS:Psychic Rogue|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Psychic Rogue]
+SPELLNAME:Alter Self|TIMES:1|CLASS:Assassin|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Assassin]
+SPELLNAME:Critical Strike|TIMES:1|CLASS:Assassin|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Assassin]
+SPELLNAME:Disguise Self|TIMES:1|CLASS:Assassin|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Assassin]
+SPELLNAME:Near Horizon|TIMES:1|CLASS:Assassin|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Assassin]
+SPELLNAME:True Strike|TIMES:1|CLASS:Assassin|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Assassin]
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:Advanced Learning&colon; Add "Detect Thoughts" to the Assassin spell lesst at Level 2
+CHARACTERMAGIC:
+CHARACTERDMNOTES:
+
+# Kits
+
+# Character Master/Follower
+
+# Character Notes Tab
+NOTE:Tactics|ID:1|PARENTID:-1|VALUE:You are a Sniper among Snipers.&nl;Sneak attack is your *jam*.  &nl;Shadow Template - grants you Total Concealment (Invisiblity) in any lighting less than broad daylight or a *Daylight* spell.&nl;	If you find yourself in those conditions, use your *Control Light* power to fix it. &nl;As long as you have Total Concealment, none of your targets get a dexterity bonus to AC, which not only makes them easier to hit, but allows you to do Sneak Attack Damage (+9d6). &nl;Sneak Attack damage is normally capped at a range of 30', but your ring extends that indefinitely. &nl;You are absolute shit in melee, so don't do it. Use the bow. Even at point-blank range.  &nl;Don't bother with Death Attack, your Save DC will never keep up with the Fortitude save of your targets. &nl;&nl;Penetrating Strike only works when flanking in melee, so it is of limited use - wands of Grave Strike and Golem Strike are far more useful against most enemies who are normally immune to Sneak Attack. Rules Compendium errataed the time to activate wands and other spell-trigger items to match the spell stored in the item, so since Grave Strike and Golem Strike are swift actions, you can activate them and still take a Full Attack.  &nl;&nl;If you run up against anything you're having trouble hitting, you have enough spell slots to cast True Strike four times per day, if you're willing to spend your second level spell slot on a first level spell.  With a +20 to hit, you're pretty likely to make the shot.  &nl;&nl;The Near Horizon spell you've only got 1/day, and it's really for long-range assassination shots.  Maximum range on a composite longbow in D&amp;D is 1100', but you normally take -2 penalty for every 110' the target is from you.  Best use for this would be to apply some kind of really nasty poison to your arrow, and take your shot.  It lasts 3 rounds after you cast it, so you could (using Rapid Shot) fire off 9 arrows during that duration.  Most common movement speed for characters is 30', but at a dead run they can move 4x that.  Which is 120'.  In 3 turns, they would have moved 360'.  You're even out of range of nearly every combat spell of comparable level to you, and it would take them at least a turn to close range far enough to make that shot.  &nl;&nl;When you're NOT starting of a super-long range engagement, you should probably hang around 90' or so from the main action to keep everyone in your - out of the range of short-range spells, and the reach of even most excessively large opponents, but close enough you can still shoot whoever you want without penalty.   &nl;&nl;Future Considerations - &nl;Eventuall you will probably want to spring for a use-activated or constant item that obviates the need for wands.  &nl;&nl;Your next level should probably be another level of Fighter, because Sneak Attack Fighters get added dice every odd level, and that would be Level 5&nl;I think I have exhausted the multiclass abuse for extra sneak attack dice.  You could probably wrangle something like more out of a level each of of Ninja, Dread Commando.  The XP penalties for mismatched base class levels can be severe, and we're already weirding some things to avoid that, so I'd skip Ninja, and probably just progress Fighter from here.  It advances Sneak Attack just as quickly as Rogue does, but increases your base attack bonus faster, which is the area you need the most shoring up.  &nl;&nl;
+
+# Age Set Selections
+AGESET:0:0:0:0:0:0:0:0:0:0
+
+# Campaign History
+
+# Suppressed Biography Fields
+SUPPRESSBIOFIELDS:
+

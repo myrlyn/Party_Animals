@@ -1,0 +1,412 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:Faiths and Pantheons|CAMPAIGN:Drow of the Underdark|CAMPAIGN:Magic Item Compendium|CAMPAIGN:Secrets of Sarlona|CAMPAIGN:Complete Scoundrel|CAMPAIGN:Fiendish Codex II|CAMPAIGN:Cityscape (WotC)|CAMPAIGN:Complete Champion|CAMPAIGN:Complete Mage|CAMPAIGN:Complete Psionic|CAMPAIGN:Stormwrack|CAMPAIGN:Dragon Magic|CAMPAIGN:Tome of Battle: The Book of Nine Swords|CAMPAIGN:Player's Handbook II|CAMPAIGN:Tome of Magic|CAMPAIGN:Races of the Dragon|CAMPAIGN:Spell Compendium|CAMPAIGN:Champions of Valor|CAMPAIGN:Lords of Madness|CAMPAIGN:Magic of Incarnum|CAMPAIGN:Weapons of Legacy|CAMPAIGN:City of Splendors: Waterdeep|CAMPAIGN:Champions of Ruin|CAMPAIGN:3.5e ~ Heroes of Battle|CAMPAIGN:Races of Eberron|CAMPAIGN:Sandstorm|CAMPAIGN:Lost Empires of Faerun|CAMPAIGN:Complete Adventurer|CAMPAIGN:Races of Destiny|CAMPAIGN:Complete Arcane|CAMPAIGN:Draconomicon|CAMPAIGN:Libris Mortis|CAMPAIGN:Shining South|CAMPAIGN:Frostburn|CAMPAIGN:Monster Manual III|CAMPAIGN:Races of Stone|CAMPAIGN:Races of the Wild|CAMPAIGN:Planar Handbook|CAMPAIGN:Eberron Campaign Setting|CAMPAIGN:Complete Divine|CAMPAIGN:Expanded Psionics Handbook|CAMPAIGN:Into the Dragon's Lair (35e)|CAMPAIGN:Player's Guide to Faerun|CAMPAIGN:Pool of Radiance - Attack on Myth Drannor (35e)|CAMPAIGN:Races of Faerun (35e)|CAMPAIGN:Unearthed Arcana (Complete)|CAMPAIGN:Unearthed Arcana|CAMPAIGN:Complete Warrior|CAMPAIGN:Dungeon Master's Guide II|CAMPAIGN:Fiend Folio|CAMPAIGN:3.5e ~ Heroes of Horror|CAMPAIGN:Book of Exalted Deeds|CAMPAIGN:Miniatures Handbook|CAMPAIGN:Underdark|CAMPAIGN:Unapproachable East|CAMPAIGN:Arms and Equipment Guide|CAMPAIGN:Savage Species|CAMPAIGN:3.5e ~ Book of Vile Darkness|CAMPAIGN:Monster Manual II|CAMPAIGN:Wizards of the Coast - Monster Manual 2 (35e)|CAMPAIGN:Epic Level Handbook|CAMPAIGN:Deities and Demigods (35e)|CAMPAIGN:Oriental Adventures v.3.5|CAMPAIGN:Magic of Faerun|CAMPAIGN:Monster Compendium - Monsters of Faerun|CAMPAIGN:Fey Feature|CAMPAIGN:Spellbook Archive|CAMPAIGN:The Mind's Eye|CAMPAIGN:Dragons of Faerun - Web Enhancement - City of Wyrmshadows|CAMPAIGN:Dungeonscape|CAMPAIGN:35e ~ Ghostwalk|CAMPAIGN:Swiftblade|CAMPAIGN:Wizards of the Coast - Monster Manual 4 (35e)|CAMPAIGN:Dungeons & Dragons - Core Books
+VERSION:6.08.00 RC8
+ROLLMETHOD:0|EXPRESSION:0
+PURCHASEPOINTS:N
+CHARACTERTYPE:PC
+PREVIEWSHEET:Standard.htm.ftl
+POOLPOINTS:0
+POOLPOINTSAVAIL:-1
+GAMEMODE:35e
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+SKILLFILTER:2
+IGNORECOST:N
+ALLOWDEBT:N
+AUTORESIZEGEAR:N
+
+# Character Bio
+CHARACTERNAME:New Phone, Hoo This?
+TABNAME:
+PLAYERNAME:
+HEIGHT:0
+WEIGHT:0
+AGE:0
+GENDER:Male
+HANDED:Right
+SKINCOLOR:
+EYECOLOR:
+HAIRCOLOR:
+HAIRSTYLE:
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:
+
+# Character Attributes
+STAT:STR|SCORE:16
+STAT:DEX|SCORE:16
+STAT:CON|SCORE:16
+STAT:INT|SCORE:18
+STAT:WIS|SCORE:21
+STAT:CHA|SCORE:18
+ALIGN:NG
+RACE:Owl (Anthropomorphic)
+
+# Character Class(es)
+CLASS:Cleric|LEVEL:12|SKILLPOOL:0
+CLASSABILITIESLEVEL:Cleric=1|HITPOINTS:8|SKILLSGAINED:24|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Cleric=2|HITPOINTS:8|SKILLSGAINED:6|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Cleric=3|HITPOINTS:8|SKILLSGAINED:6|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Cleric=4|HITPOINTS:8|PRESTAT:WIS=1|SKILLSGAINED:6|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Cleric=5|HITPOINTS:8|SKILLSGAINED:6|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Cleric=6|HITPOINTS:8|SKILLSGAINED:6|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Cleric=7|HITPOINTS:8|SKILLSGAINED:6|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Cleric=8|HITPOINTS:8|PRESTAT:WIS=1|SKILLSGAINED:6|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Cleric=9|HITPOINTS:8|SKILLSGAINED:6|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Cleric=10|HITPOINTS:8|SKILLSGAINED:6|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Cleric=11|HITPOINTS:8|SKILLSGAINED:6|SKILLSREMAINING:0
+CLASSABILITIESLEVEL:Cleric=12|HITPOINTS:8|PRESTAT:WIS=1|SKILLSGAINED:6|SKILLSREMAINING:0
+
+# Character Experience
+EXPERIENCE:91000
+EXPERIENCETABLE:Default
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:Base Race Type]
+TEMPLATESAPPLIED:[NAME:RighteousMightDR]
+TEMPLATESAPPLIED:[NAME:First Level|APPLIEDTO:First Level ~ Cleric]
+TEMPLATESAPPLIED:[NAME:First Level ~ Cleric|CHOSENTEMPLATE:[NAME:Funds - PC]]
+TEMPLATESAPPLIED:[NAME:Draconic Creature]
+TEMPLATESAPPLIED:[NAME:Funds - PC]
+
+# Character Region
+REGION:None
+
+# Character Skills
+SKILL:Appraise|OUTPUTORDER:1|
+SKILL:Balance|OUTPUTORDER:2|
+SKILL:Bluff|OUTPUTORDER:3|
+SKILL:Climb|OUTPUTORDER:4|
+SKILL:Concentration|OUTPUTORDER:5|CLASSBOUGHT:[CLASS:Cleric|RANKS:15.0|COST:1|CLASSSKILL:Y]
+SKILL:Control Shape|OUTPUTORDER:6|
+SKILL:Craft (Untrained)|OUTPUTORDER:7|
+SKILL:Diplomacy|OUTPUTORDER:8|CLASSBOUGHT:[CLASS:Cleric|RANKS:9.0|COST:1|CLASSSKILL:Y]
+SKILL:Diplomacy (Red Dragons)|OUTPUTORDER:9|
+SKILL:Disguise|OUTPUTORDER:10|
+SKILL:Escape Artist|OUTPUTORDER:11|
+SKILL:Forgery|OUTPUTORDER:12|
+SKILL:Gather Information|OUTPUTORDER:13|
+SKILL:Heal|OUTPUTORDER:14|
+SKILL:Hide|OUTPUTORDER:15|
+SKILL:Hide (Forested Areas)|OUTPUTORDER:16|
+SKILL:Iaijutsu Focus|OUTPUTORDER:17|
+SKILL:Intimidate|OUTPUTORDER:18|
+SKILL:Intimidate (Demoralize opponent)|OUTPUTORDER:19|
+SKILL:Jump|OUTPUTORDER:20|
+SKILL:Knowledge (Arcana)|OUTPUTORDER:21|CLASSBOUGHT:[CLASS:Cleric|RANKS:15.0|COST:1|CLASSSKILL:Y]
+SKILL:Knowledge (Religion)|OUTPUTORDER:22|CLASSBOUGHT:[CLASS:Cleric|RANKS:15.0|COST:1|CLASSSKILL:Y]
+SKILL:Knowledge (Shadowlands)|OUTPUTORDER:23|
+SKILL:Knowledge (Spirits)|OUTPUTORDER:24|
+SKILL:Knowledge (The Planes)|OUTPUTORDER:25|CLASSBOUGHT:[CLASS:Cleric|RANKS:15.0|COST:1|CLASSSKILL:Y]
+SKILL:Knowledge (Untrained)|OUTPUTORDER:26|
+SKILL:Knowledge (war)|OUTPUTORDER:27|
+SKILL:Listen|OUTPUTORDER:28|
+SKILL:Literacy|OUTPUTORDER:29|
+SKILL:Move Silently|OUTPUTORDER:30|
+SKILL:Move Silently (Forested Areas)|OUTPUTORDER:31|
+SKILL:Ride|OUTPUTORDER:32|
+SKILL:Search|OUTPUTORDER:33|
+SKILL:Sense Motive|OUTPUTORDER:34|
+SKILL:Skill Trick|OUTPUTORDER:35|CLASSBOUGHT:[CLASS:Cleric|RANKS:2.0|COST:1|CLASSSKILL:Y]
+SKILL:Speak Language|OUTPUTORDER:36|CLASSBOUGHT:[CLASS:Cleric|RANKS:3.0|COST:2|CLASSSKILL:N]|ASSOCIATEDDATA:Aquan|ASSOCIATEDDATA:Ignan|ASSOCIATEDDATA:Terran
+SKILL:Spellcraft|OUTPUTORDER:37|CLASSBOUGHT:[CLASS:Cleric|RANKS:13.0|COST:1|CLASSSKILL:Y]
+SKILL:Spot|OUTPUTORDER:38|
+SKILL:Survival|OUTPUTORDER:39|
+SKILL:Swim|OUTPUTORDER:40|
+SKILL:Use Rope|OUTPUTORDER:41|
+
+# Character Languages
+LANGUAGE:Aquan|LANGUAGE:Auran|LANGUAGE:Celestial|LANGUAGE:Ignan|LANGUAGE:Infernal|LANGUAGE:Terran|LANGUAGE:Undercommon
+
+# Character Feats
+FEATPOOL:0.0
+
+# Character Abilities
+ABILITY:*LANGBONUS|TYPE:VIRTUAL|CATEGORY:*LANGBONUS|KEY:*LANGBONUS|APPLIEDTO:Undercommon,Infernal,Celestial,Auran|TYPE:
+ABILITY:*LANGBONUS|TYPE:VIRTUAL|CATEGORY:*LANGBONUS|KEY:*LANGBONUS|APPLIEDTO:Undercommon,Infernal,Celestial,Auran|TYPE:
+ABILITY:*LANGBONUS|TYPE:VIRTUAL|CATEGORY:*LANGBONUS|KEY:*LANGBONUS|APPLIEDTO:Undercommon,Infernal,Celestial,Auran|TYPE:
+ABILITY:*LANGBONUS|TYPE:VIRTUAL|CATEGORY:*LANGBONUS|KEY:*LANGBONUS|APPLIEDTO:Undercommon,Infernal,Celestial,Auran|TYPE:
+USERPOOL:*LANGBONUS|POOLPOINTS:0.0
+ABILITY:Alternate Class Feature|TYPE:NORMAL|CATEGORY:ACF|KEY:Cleric ACF ~ Divine Restoration|TYPE:ACF|DESC:You have opted to replace one of your granted domain powers with the ability to simultaneously cast restoration spells.
+ABILITY:Alternate Class Feature|TYPE:NORMAL|CATEGORY:ACF|KEY:Cleric ACF ~ Pool of Healing|TYPE:ACF|DESC:Replaces&colon; To select this class feature, you must permanently sacrifice one of your 4th-level spell slots. Benefit&colon; You establish a pool of positive energy that you can use to heal yourself or others. This pool contains enough positive energy to heal an amount of damage equal to 5 x (1 + your divine caster level) hit points per day. You can dole it out with a touch, expending as much or as little of the pool at a time as you wish in much the same way as a paladin does with her lay on hands ability. The pool automatically replenishes every time you prepare spells for the day. You can also deal out this positive energy with a melee touch attack against any creature vulnerable to positive energy (such as undead), damaging it as if you had cast a cure spell upon it. Example&colon; Jozan, a 7th-level cleric of Pelor, gives up one of his 4th-level spell slots to set up his pool of healing. Every day, he can heal up to 5 x (1 + 7) = 40 points of damage, or deal that amount of damage to creatures powered by negative energy, or use the energy for a combination of those effects, up to the maximum available. At 10th level, he can heal up to 55 points of damage using this ability. Pool of healing is a spell-like ability.
+USERPOOL:Alternate Class Feature|POOLPOINTS:0.0
+ABILITY:Cleric Standing|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Cleric ~ Normal Standing|TYPE:Cleric Standing.SpecialQuality|DESC:You are in good standing with your deity.
+USERPOOL:Cleric Standing|POOLPOINTS:0.0
+ABILITY:Domain Feat|TYPE:NORMAL|CATEGORY:FEAT|KEY:Trickery Devotion|APPLIEDTO:|TYPE:Domain|DESC:You project a simulacrum of yourself that can perform limited tasks.
+USERPOOL:Domain Feat|POOLPOINTS:0.0
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Augment Summoning|TYPE:General|DESC:Your summoned creatures are more powerful than normal.|DESC:Your summoned creatures are better than normal.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Divine Metamagic|APPLIEDTO:Persistent Spell|TYPE:Divine|DESC:You can channel energy into some of your divine spells to make them more powerful.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Extend Spell|TYPE:Metamagic.Wizard|DESC:You can cast spells that last longer than normal.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Extra Turning|APPLIEDTO:,|TYPE:General|DESC:You can turn or rebuke creatures more often than normal.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Persistent Spell|TYPE:Metamagic.Wizard|DESC:You can make a spell last all day.|DESC:A persistent spell has a duration of 24 hours. The persistent spell must have a personal range or fixed range (for example, comprehend languages or detect magic). Spells of instantaneous duration cannot be affected by this feat, nor can spells whose effects are discharged. You need not concentrate on spells such as detect magic or detect thoughts to be aware of the mere presence or absence of the thing detected, but you must still concentrate to gain additional information as normal. Concentration on such a spell is a standard action that does not provoke an attack of opportunity. A persistent spell uses up a spell slot six levels higher than the spell's actual level.
+ABILITY:FEAT|TYPE:NORMAL|CATEGORY:FEAT|KEY:Spell Focus|APPLIEDTO:Conjuration|TYPE:General.EpicWizard.CosmicDescryer|DESC:Your spells of a chosen school of magic are more potent than normal.
+USERPOOL:FEAT|POOLPOINTS:0.0
+ABILITY:First Level Feat|TYPE:NORMAL|CATEGORY:Internal|KEY:+1 Feat to feat pool|APPLIEDTO:|TYPE:FirstLevelFeatOnly|DESC:Use this to bypass a First Level Only Feat, and pick any non-First Level only feats from the regular pool instead.
+USERPOOL:First Level Feat|POOLPOINTS:0.0
+ABILITY:Flaws|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Flaw ~ Unreactive|TYPE:Flaws.SpecialQuality|DESC:You are slow to react to danger.
+ABILITY:Flaws|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Flaw ~ Weak Will|TYPE:Flaws.SpecialQuality|DESC:You are highly suggestible and easily duped.
+USERPOOL:Flaws|POOLPOINTS:0.0
+ABILITY:Misc Options|TYPE:NORMAL|CATEGORY:Internal|KEY:Remove Domain for Devotion Feat I|TYPE:MiscOptions.DomainRemoval
+USERPOOL:Misc Options|POOLPOINTS:0.0
+ABILITY:Region|TYPE:NORMAL|CATEGORY:Regional|KEY:Region ~ None|TYPE:Region
+USERPOOL:Region|POOLPOINTS:0.0
+ABILITY:Skill Tricks|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Skill Trick ~ Swift Concentration|TYPE:ST.SpecialQuality.SkillTrick.Mental|DESC:You can maintain concentration on a spell or similar effect as a swift action.
+USERPOOL:Skill Tricks|POOLPOINTS:0.0
+ABILITY:Turn Undead|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Turn Undead|TYPE:Class Feature.Cleric Class Feature.Paladin Class Feature.SpecialAttack.Turning.TurnUndead.Turn Undead|DESC:%1/day (turn level %2) (turn damage %3d%4+%5)&pipe;TurnTimesUndead&pipe;TurnLevelUndead&pipe;TurnDiceUndead&pipe;TurnDieSizeUndead&pipe;TurnDamagePlusUndead
+USERPOOL:Turn Undead|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Aspergillum (Heavy)|WEAPON:Battle Gauntlet|WEAPON:Blowgun|WEAPON:Boulder|WEAPON:Club|WEAPON:Crossbow (Heavy)|WEAPON:Crossbow (Light)|WEAPON:Dagger|WEAPON:Dagger (Punching)|WEAPON:Dart]
+WEAPONPROF:[WEAPON:Darts (Barbed)|WEAPON:Gauntlet|WEAPON:Gauntlet (Spiked)|WEAPON:Grapple|WEAPON:Halfspear|WEAPON:Javelin|WEAPON:Longspear|WEAPON:Mace (Heavy)|WEAPON:Mace (Light)|WEAPON:Morningstar]
+WEAPONPROF:[WEAPON:Quarterstaff|WEAPON:Ranged Spell|WEAPON:Shortspear|WEAPON:Sickle|WEAPON:Sling|WEAPON:Spear|WEAPON:Spells (Ray)|WEAPON:Spells (Touch)|WEAPON:Strike (Unarmed)|WEAPON:Talons]
+WEAPONPROF:[WEAPON:Unarmed Strike]
+
+# Character Equipment
+MONEY:200.00
+EQUIPNAME:Bag of Holding (Type II)|OUTPUTORDER:8|COST:5000|WT:25.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Belt, Monk's|OUTPUTORDER:6|COST:13000|WT:1.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Belt (Monk's)|DATA:NAME=Belt, Monk's$KEY=Belt (Monk's)]
+EQUIPNAME:Bracers of Armor +2|OUTPUTORDER:2|COST:4000|WT:1.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Cloak of Charisma +4|OUTPUTORDER:5|COST:16000|WT:2.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Gloves of Dexterity +4|OUTPUTORDER:3|COST:16000|WT:0.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Nightstick|OUTPUTORDER:7|COST:7500|WT:0.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Periapt of Wisdom +4|OUTPUTORDER:1|COST:16000|WT:0.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Scale Mail (Huge/Adamantine)|OUTPUTORDER:9|COST:10200.0|WT:150.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Scale Mail|DATA:NAME=Scale Mail (Huge/Adamantine)$SIZE=H$EQMOD=Adamantine (Armor/Medium)]
+EQUIPNAME:Scale Mail (Large)|OUTPUTORDER:0|COST:100.0|WT:60.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Scale Mail|DATA:NAME=Scale Mail (Large)$SIZE=L$EQMOD=STEEL]
+EQUIPNAME:Talons (Natural/Primary)|OUTPUTORDER:4|COST:0|WT:0.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Talons|DATA:KEY=Talons]
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Arms|ID:0.1.02|VALUE:Bracers of Armor +2|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Shoulders|ID:0.1.03|VALUE:Cloak of Charisma +4|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Hands|ID:0.1.04|VALUE:Gloves of Dexterity +4|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.05|VALUE:Nightstick|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Neck|ID:0.1.06|VALUE:Periapt of Wisdom +4|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Waist|ID:0.1.07|VALUE:Belt, Monk's|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.08|VALUE:Bag of Holding (Type II)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Bag of Holding (Type II)|ID:0.1.08.01|VALUE:Scale Mail (Huge/Adamantine)|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Natural-Primary|ID:0.1.1|VALUE:Talons (Natural/Primary)|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+DEITY:None|DEITYDOMAINS:[DOMAIN:Abyss|DOMAIN:Abyss (1 of 2)|DOMAIN:AGASHA SCHOOL|DOMAIN:Air|DOMAIN:Animal|DOMAIN:Arborea|DOMAIN:Arborea (1 of 2)|DOMAIN:Artifice|DOMAIN:ASAHINA SCHOOL|DOMAIN:Baator|DOMAIN:Baator (1 of 2)|DOMAIN:Balance|DOMAIN:Bestial|DOMAIN:Blightbringer|DOMAIN:Cavern|DOMAIN:Celerity|DOMAIN:Celestia|DOMAIN:Celestia (1 of 2)|DOMAIN:Celestial|DOMAIN:Chaos|DOMAIN:Charm|DOMAIN:City|DOMAIN:Cold|DOMAIN:Commerce|DOMAIN:Community|DOMAIN:Competition|DOMAIN:Corruption|DOMAIN:Courage|DOMAIN:Craft|DOMAIN:Creation|DOMAIN:Darkness|DOMAIN:Death|DOMAIN:Deathbound|DOMAIN:Deathless|DOMAIN:Decay|DOMAIN:Demonic|DOMAIN:Destiny|DOMAIN:Destruction|DOMAIN:Diabolic|DOMAIN:Domination|DOMAIN:Dragon|DOMAIN:Dragon Below|DOMAIN:Dream|DOMAIN:Drow|DOMAIN:Dwarf|DOMAIN:Earth|DOMAIN:Elf|DOMAIN:Elysium|DOMAIN:Elysium (1 of 2)|DOMAIN:Endurance|DOMAIN:Envy|DOMAIN:Evil|DOMAIN:Exorcism|DOMAIN:Family|DOMAIN:Fate|DOMAIN:Feast|DOMAIN:Fey|DOMAIN:Fire|DOMAIN:Force|DOMAIN:Ghost|DOMAIN:Glory|DOMAIN:Gluttony|DOMAIN:Gnome|DOMAIN:Good|DOMAIN:Greed|DOMAIN:Hades|DOMAIN:Hades (1 of 2)|DOMAIN:Halfling|DOMAIN:Hatred|DOMAIN:Healing|DOMAIN:Herald|DOMAIN:Hunger|DOMAIN:Illusion|DOMAIN:Incarnum|DOMAIN:Inquisition|DOMAIN:IUCHI SCHOOL|DOMAIN:Joy|DOMAIN:KITSU SCHOOL|DOMAIN:Knowledge|DOMAIN:KUNI SCHOOL|DOMAIN:Law|DOMAIN:Liberation|DOMAIN:Life|DOMAIN:Limbo|DOMAIN:Limbo (1 of 2)|DOMAIN:Luck|DOMAIN:Lust|DOMAIN:Madness|DOMAIN:Magic|DOMAIN:Mechanus|DOMAIN:Mechanus (1 of 2)|DOMAIN:Meditation|DOMAIN:Mentalism|DOMAIN:Metal|DOMAIN:Mind|DOMAIN:Moon|DOMAIN:Mysticism|DOMAIN:Necromancer|DOMAIN:Nobility|DOMAIN:Ocean|DOMAIN:Oracle|DOMAIN:Orc|DOMAIN:Order of the All-Seeing Eye|DOMAIN:Order of the Consuming Flame|DOMAIN:Order of the Forbidding Wasteland|DOMAIN:Order of the Gentle Rain|DOMAIN:Order of the Impenetrable Crucible|DOMAIN:Order of the Ineffable Mystery|DOMAIN:Order of the Perfect Sculpture|DOMAIN:Order of the Spring Zephyr|DOMAIN:Pact|DOMAIN:Pain|DOMAIN:Passion|DOMAIN:Pestilence|DOMAIN:Planning|DOMAIN:Plant|DOMAIN:Pleasure|DOMAIN:Portal|DOMAIN:Pride|DOMAIN:Protection|DOMAIN:Purification|DOMAIN:Renewal|DOMAIN:Repose|DOMAIN:Retribution|DOMAIN:Rune|DOMAIN:Sand|DOMAIN:Scalykind|DOMAIN:Shadow|DOMAIN:Slime|DOMAIN:Sloth|DOMAIN:SOSHI SCHOOL|DOMAIN:Spell|DOMAIN:Spider|DOMAIN:Spite|DOMAIN:Storm|DOMAIN:Strength|DOMAIN:Suffering|DOMAIN:Summer|DOMAIN:Summoner|DOMAIN:Sun|DOMAIN:TAMORI SCHOOL|DOMAIN:Thirst|DOMAIN:Time|DOMAIN:Trade|DOMAIN:Travel|DOMAIN:Trickery|DOMAIN:Truth|DOMAIN:Tyranny|DOMAIN:Undeath|DOMAIN:Vile Darkness|DOMAIN:War|DOMAIN:Water|DOMAIN:Watery Death|DOMAIN:Wealth|DOMAIN:Weather|DOMAIN:Windstorm|DOMAIN:Winter|DOMAIN:Wrath|DOMAIN:YOGO SCHOOL]|ALIGNALLOW:|DESC:For No Deity Choices|DEITYFAVWEAP:[WEAPON:ALL]|DEITYALIGN:
+DOMAIN:Magic|DOMAINGRANTS:Use scrolls, wands, and other devices with spell completion or spell trigger activation as a wizard of one-half your cleric level (at least 1st level). For the purpose of using a scroll or other magic device, if you are also a wizard, actual wizard levels and these effective wizard levels stack.|SOURCE:[TYPE:PCClass|NAME:Cleric|LEVEL:1]
+
+# Character Spells Information
+SPELLBOOK:Class|TYPE:4
+SPELLBOOK:Prepared Spells|TYPE:2
+SPELLBOOK:Loaded For Bear|TYPE:2
+SPELLNAME:Absorb Mind|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Absorb Strength|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Air Walk|TIMES:1|CLASS:Cleric|BOOK:Prepared Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Animate Dead|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Animate Objects|TIMES:1|CLASS:Cleric|BOOK:Prepared Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Animate Objects|TIMES:1|CLASS:Cleric|BOOK:Loaded For Bear|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Antimagic Field|TIMES:1|CLASS:Cleric|BOOK:Loaded For Bear|SPELLLEVEL:6|SOURCE:[TYPE:DOMAIN|NAME:Magic]
+SPELLNAME:Antimagic Field|TIMES:1|CLASS:Cleric|BOOK:Prepared Spells|SPELLLEVEL:6|SOURCE:[TYPE:DOMAIN|NAME:Magic]
+SPELLNAME:Awaken Undead|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Balor Nimbus|TIMES:1|CLASS:Cleric|BOOK:Prepared Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Bane|TIMES:1|CLASS:Cleric|BOOK:Loaded For Bear|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Barghest's Feast|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Bebilith Blessing|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Bestow Curse|TIMES:1|CLASS:Cleric|BOOK:Prepared Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Black Karma Curse|TIMES:2|CLASS:Cleric|BOOK:Prepared Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Black Sand|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Bleakness|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Blessing of the Snake Mother|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Charnel Fire|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Chasing Perfection|TIMES:1|CLASS:Cleric|BOOK:Prepared Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Circle of Nausea|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Claws of the Bebilith|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Claws of the Savage|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Cloud of Knives|TIMES:2|CLASS:Cleric|BOOK:Loaded For Bear|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Cloud of the Achaierai|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Clutch of Orcus|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Command|TIMES:3|CLASS:Cleric|BOOK:Prepared Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Command|TIMES:1|CLASS:Cleric|BOOK:Loaded For Bear|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Commune|TIMES:1|CLASS:Cleric|BOOK:Prepared Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Comprehend Languages|TIMES:1|CLASS:Cleric|BOOK:Prepared Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Consume Likeness|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Consumptive Field|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Contagion|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Contagion (Mass)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Control Water|TIMES:1|CLASS:Cleric|BOOK:Prepared Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Create Undead|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Curse Water|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Damning Darkness|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Dance of Ruin|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Darkbolt|TIMES:1|CLASS:Cleric|BOOK:Prepared Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Darkfire|TIMES:1|CLASS:Cleric|BOOK:Loaded For Bear|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Daylight|TIMES:1|CLASS:Cleric|BOOK:Loaded For Bear|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Death Knell|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Deathwatch|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Defile Snow and Ice|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Desecrate|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Despoil|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Detect Magic|TIMES:3|CLASS:Cleric|BOOK:Prepared Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Devil's Tongue|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Diamond Spray|TIMES:1|CLASS:Cleric|BOOK:Loaded For Bear|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Dimensional Anchor|TIMES:1|CLASS:Cleric|BOOK:Prepared Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Dispel Good|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Dispel Magic|TIMES:1|CLASS:Cleric|BOOK:Loaded For Bear|SPELLLEVEL:3|SOURCE:[TYPE:DOMAIN|NAME:Magic]
+SPELLNAME:Dispel Magic|TIMES:1|CLASS:Cleric|BOOK:Prepared Spells|SPELLLEVEL:3|SOURCE:[TYPE:DOMAIN|NAME:Magic]
+SPELLNAME:Dispel Magic|TIMES:1|CLASS:Cleric|BOOK:Prepared Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Disrupt Ectoplasm|TIMES:1|CLASS:Cleric|BOOK:Loaded For Bear|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Divine Power|TIMES:1|CLASS:Cleric|BOOK:Loaded For Bear|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Entropic Shield|TIMES:1|CLASS:Cleric|BOOK:Prepared Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Eye of the Zombie|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Fangs of the Vampire King (Corrupt)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Find the Gap|TIMES:1|CLASS:Cleric|BOOK:Prepared Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Flame Strike|TIMES:1|CLASS:Cleric|BOOK:Prepared Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Forbidden Speech|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Freedom of Movement|TIMES:1|CLASS:Cleric|BOOK:Prepared Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Frostbite|TIMES:1|CLASS:Cleric|BOOK:Loaded For Bear|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Frostburn|TIMES:1|CLASS:Cleric|BOOK:Loaded For Bear|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Handfang|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Harm|TIMES:1|CLASS:Cleric|BOOK:Loaded For Bear|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Heartache|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Heartclutch|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Hold Person|TIMES:2|CLASS:Cleric|BOOK:Prepared Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Hold Person|TIMES:5|CLASS:Cleric|BOOK:Loaded For Bear|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Holy Storm|TIMES:1|CLASS:Cleric|BOOK:Loaded For Bear|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Ice Gauntlet|TIMES:2|CLASS:Cleric|BOOK:Loaded For Bear|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Identify|TIMES:1|CLASS:Cleric|BOOK:Loaded For Bear|SPELLLEVEL:2|SOURCE:[TYPE:DOMAIN|NAME:Magic]
+SPELLNAME:Identify|TIMES:1|CLASS:Cleric|BOOK:Prepared Spells|SPELLLEVEL:2|SOURCE:[TYPE:DOMAIN|NAME:Magic]
+SPELLNAME:Identify Transgressor|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Imbue with Spell Ability|TIMES:1|CLASS:Cleric|BOOK:Loaded For Bear|SPELLLEVEL:4|SOURCE:[TYPE:DOMAIN|NAME:Magic]
+SPELLNAME:Imbue with Spell Ability|TIMES:1|CLASS:Cleric|BOOK:Prepared Spells|SPELLLEVEL:4|SOURCE:[TYPE:DOMAIN|NAME:Magic]
+SPELLNAME:Infernal Transformation (Lesser)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Infernal Wound|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Insect Plague|TIMES:1|CLASS:Cleric|BOOK:Loaded For Bear|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Investiture Of The Amnizu|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Investiture Of The Barbed Devil|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Investiture Of The Bearded Devil|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Investiture Of The Chain Devil|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Investiture Of The Erinyes|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Investiture Of The Harvester Devil|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Investiture Of The Malebranche|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Investiture Of The Narzugon|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Investiture Of The Orthon|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Investiture Of The Spined Devil|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Investiture Of The Steel Devil|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Lahm's Finger Darts|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Light|TIMES:1|CLASS:Cleric|BOOK:Prepared Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Love's Pain|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Magic Aura|TIMES:1|CLASS:Cleric|BOOK:Loaded For Bear|SPELLLEVEL:1|SOURCE:[TYPE:DOMAIN|NAME:Magic]
+SPELLNAME:Magic Aura|TIMES:1|CLASS:Cleric|BOOK:Prepared Spells|SPELLLEVEL:1|SOURCE:[TYPE:DOMAIN|NAME:Magic]
+SPELLNAME:Magic Circle against Good|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Magic Weapon|TIMES:1|CLASS:Cleric|BOOK:Prepared Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Make Whole|TIMES:1|CLASS:Cleric|BOOK:Prepared Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Mantle of Evil|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Masochism|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Monstrous Regeneration|TIMES:1|CLASS:Cleric|BOOK:Prepared Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Monstrous Regeneration|TIMES:1|CLASS:Cleric|BOOK:Loaded For Bear|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Morality Undone|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Mummify|TIMES:1|CLASS:Cleric|BOOK:Prepared Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Mummify|TIMES:1|CLASS:Cleric|BOOK:Loaded For Bear|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Plane Shift|TIMES:1|CLASS:Cleric|BOOK:Prepared Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Power Leech (BoVD)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Protection from Evil|TIMES:2|CLASS:Cleric|BOOK:Prepared Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Protection from Evil|TIMES:4|CLASS:Cleric|BOOK:Loaded For Bear|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Protection from Good|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Psychic Poison|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Read Magic|TIMES:2|CLASS:Cleric|BOOK:Prepared Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Read Magic|TIMES:1|CLASS:Cleric|BOOK:Loaded For Bear|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Reaving Aura|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Red Fester|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Rejuvenative Corpse|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Remorseless Charm|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Remove Curse|TIMES:1|CLASS:Cleric|BOOK:Prepared Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Remove Disease|TIMES:1|CLASS:Cleric|BOOK:Prepared Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Revivify|TIMES:1|CLASS:Cleric|BOOK:Loaded For Bear|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Rotting Curse of Urfestra|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Sacrificial Skill|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Sadism|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Sap Strength|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Searing Light|TIMES:1|CLASS:Cleric|BOOK:Prepared Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Searing Light|TIMES:3|CLASS:Cleric|BOOK:Loaded For Bear|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Seething Eyebane|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Serpent of Theggeron|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Shriveling|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Slash Tongue|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:0|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Slow Consumption|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Sorrow|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Soul of Shadow|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Spell Resistance|TIMES:1|CLASS:Cleric|BOOK:Loaded For Bear|SPELLLEVEL:5|SOURCE:[TYPE:DOMAIN|NAME:Magic]
+SPELLNAME:Spell Resistance|TIMES:1|CLASS:Cleric|BOOK:Prepared Spells|SPELLLEVEL:5|SOURCE:[TYPE:DOMAIN|NAME:Magic]
+SPELLNAME:Spores of the Vrock|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Stop Heart|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Summon Babau Demon|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Summon Bearded Devil|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Summon Bralani Eladrin|TIMES:1|CLASS:Cleric|BOOK:Loaded For Bear|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Summon Monster V|TIMES:1|CLASS:Cleric|BOOK:Prepared Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Summon Monster VI|TIMES:1|CLASS:Cleric|BOOK:Prepared Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Summon Monster VI|TIMES:1|CLASS:Cleric|BOOK:Loaded For Bear|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Summon Undead I|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Summon Undead II|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Summon Undead III|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Summon Undead IV|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Summon Undead V|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Symbol of Pain|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Thousand Needles|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:6|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Tongue of Baalzebul|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:1|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Touch of Juiblex|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Touch of the Blackened Soul|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Unhallow|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:5|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Unholy Storm|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Unliving Weapon|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Vestigewrack|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Vile Lance|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Wall of Evil|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Wave of Grief|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Wither Limb (BoVD)|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:2|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Wrack|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:3|SOURCE:[TYPE:CLASS|NAME:Cleric]
+SPELLNAME:Yochlol Blessing|TIMES:1|CLASS:Cleric|BOOK:Known Spells|SPELLLEVEL:4|SOURCE:[TYPE:CLASS|NAME:Cleric]
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:Your biggest and most effective trick is Divine Metamagic (Persist Spell)&nl;Since using Divine Metamagic does not increase the effective level of the spell, you can use it on your highest level spells.&nl;You have enought Turn Undead uses to persist 3 spells, if you want to spend them all, and unless you expect to meet undead on the particular day in quesiton, you probably SHOULD spend them all.  &nl;&nl;6th Level &nl;&nl;Animate Objects(Persist Spell) &lbracket;https&colon;//www.d20srd.org/srd/spells/animateObjects.htm&rbracket; - animate the Huge suit of armor in your inventory. There is a large suit of scale armor in your inventory too.  This gives you two mooks to command in battle.  You can carry them around in the Bag Of Holding, if being followed around by giants made of adamantine and steel is inconvenient. &lbracket;A sheet with the stats for your animated armor is provided&rbracket;.  Corpses can be animated with Animate Object, but they are still Constructs, not Undead, and cannot speak, wield weapons, or obey complex commands.  &nl;&nl;Summon Monster VI(Persist Spell, Augment Summoning) &lbracket;https&colon;//www.d20srd.org/srd/spells/summonMonsterVI.htm&rbracket; - The biggest downside of Summoning spells is their pitiful duration.  Persisting it raises the duration from 12 rounds to 24 hours.  This gives you a loyal ally/servant all day long.  Your Augment Summoning feat grants all of your summons +4 STR, +4 con, +1 attack, &nl;Recommendations for summons&nl;	Bralani - &lbracket;https&colon;//www.d20srd.org/srd/monsters/bralani.htm&rbracket; Has a suite of useful combat (Blur, Lightning Bolt, Whirlwind Blast, Gust Of Wind) and non-combat (Cure Serious Wounds, Charm Person, Tongues) powers.  Bralani speak all languages, so you can give them complex/non-combat instructions.  &nl;	&nl;	Janni &lbracket;https&colon;//www.d20srd.org/srd/monsters/genie.htm#janni&rbracket; - The least powerful of genies, you're not getting any wishes.  Can change size between Small, Medium, Large, Telepathic Communication, and some spell-like abilities (Speak With Animals, Create Food/Water, Invisiblity).  Summoned creatures cannot use special travel powers, so you cannot use its Plane Shift power. They speak Common, so you can communicate with them and give them complex/non-combat commands. &nl;	&nl;	Large Elemental &lbracket;https&colon;//www.d20srd.org/srd/monsters/elemental.htm&rbracket; - Elementals need to be summoned from some mass of their element.  This makes Air Elementals easiest to summon. You speak all four elemental languages, so you can give your elementals complex/noncombat commands.  All are good combatants, Earth elementals can pass through dirt and stone, air elementals can fly very fast, fire elementals are... on fire (but cannot enter any body of nonflammable liquid), and water elemenals can swim, sink boats, and douse fires (but cannot travel more than 180 ft from the body of water they were conjured from).  &nl;&nl;Chasing Perfection (Persist Spell) - This one is pretty simple.  +4 Enhancement Bonus to all attributes.  Does not stack with your existing Ability boosts, but can be a good way to buff a party member. The utility of this one is probably very situational.  Your animated armor and summons are all valid targets for this...  A summoned creature, or even your Animated Object, are valid targets for this, if you want to really lean into that.  &nl;&nl;5th Level&nl;	Monstrous Regeneration (Persist Spell) - Gain Regeneration 4, with exceptions for Fire and Acid.  This makes you VERY hard to kill. &nl;4th Level &nl;	Freedom Of Movement (Persist Spell) - This spell already has a pretty good duration (2 hours at 12th level) so unless you are going into a situation where you expect to need it a LOT, it's probably best to just cast this normally. &nl;	Divine Power (Persist Spell) - Makes you a bette fighter. &nl;	Animate With The Spirit (Persist Spell) - this allows you to stuff a Celestial into a corpse, temporarily reanimating it (treat it as alive, but possessed).  Great for infiltrations.  &nl;&nl;3rd Level &nl;	Blindsight (Persist Spell) - 60 ft blindsight is pretty good, if you don't have anything else to spend your spells on.&nl;2nd Level&nl;	Various Attribute Boosts &lbracket;Bull's Strenght, Bear's Endurance, etc.&rbracket;(Persistent Spell) - don't stack with items, but can be a useful long-standing buff for an ally.  1st Level&nl;	Make Whole - if someone manages to destroy one of your suits of armor, you can use this to fully repair it after the magic wears off.  Then you can animate it again the next day.  &nl;	Magic Weapon (Persist Spell) - if you or an ally are short of magic weapons, you can enchante a normal weapon (or a big stick) for them at the beginning of the day.&nl;&nl;	&nl;&nl;	&nl;
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+CHARACTERDMNOTES:
+
+# Kits
+
+# Character Master/Follower
+FOLLOWER:Animated Huge Adamantine Scale Mail|TYPE:Follower|RACE:ANIMATED OBJECT (HUGE)|HITDICE:0|FILE:..\..\..\Downloads\Animated Huge Adamantine Scale Mail.pcg
+FOLLOWER:Animated Large Steel Scale Mail|TYPE:Follower|RACE:ANIMATED OBJECT (LARGE)|HITDICE:0|FILE:..\..\..\Downloads\Animated Large Steel Scale Mail.pcg
+FOLLOWER:Elemental (Air Large)|TYPE:Follower|RACE:ELEMENTAL (AIR LARGE)|HITDICE:0|FILE:..\..\..\Downloads\Elemental (Air Large).pcg
+FOLLOWER:Elemental (Earth Large)|TYPE:Follower|RACE:ELEMENTAL (EARTH LARGE)|HITDICE:0|FILE:..\..\..\Downloads\Large Earth Elemental.pcg
+FOLLOWER:Elemental (Fire Large)|TYPE:Follower|RACE:ELEMENTAL (FIRE LARGE)|HITDICE:0|FILE:..\..\..\Downloads\Elemental (Fire Large).pcg
+FOLLOWER:Elemental (Water Large)|TYPE:Follower|RACE:ELEMENTAL (WATER LARGE)|HITDICE:0|FILE:..\..\..\Downloads\Elemental (Water Large).pcg
+FOLLOWER:Janni|TYPE:Follower|RACE:GENIE (JANNI)|HITDICE:0|FILE:..\..\..\Downloads\Janni .pcg
+FOLLOWER:Bralani|TYPE:Follower|RACE:ELADRIN (BRALANI)|HITDICE:0|FILE:..\..\..\Downloads\Bralani .pcg
+
+# Character Notes Tab
+
+# Age Set Selections
+AGESET:0:0:0:0:0:0:0:0:0:0
+
+# Campaign History
+
+# Suppressed Biography Fields
+SUPPRESSBIOFIELDS:
+
